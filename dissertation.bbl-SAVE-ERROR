@@ -16,5 +16,3652 @@
   {}
 \endgroup
 
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global/global}
+    \entry{Mikhailovsky1971}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=109f22ee101ee8ee7002617fa2de3a3e}{%
+           family={Михайловский},
+           familyi={М\bibinitperiod},
+           given={А.\bibnamedelimi Б.},
+           giveni={А\bibinitperiod\bibinitdelim Б\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Москва}%
+      }
+      \list{publisher}{1}{%
+        {Атомиздат}%
+      }
+      \strng{namehash}{109f22ee101ee8ee7002617fa2de3a3e}
+      \strng{fullhash}{109f22ee101ee8ee7002617fa2de3a3e}
+      \strng{fullhashraw}{109f22ee101ee8ee7002617fa2de3a3e}
+      \strng{bibnamehash}{109f22ee101ee8ee7002617fa2de3a3e}
+      \strng{authorbibnamehash}{109f22ee101ee8ee7002617fa2de3a3e}
+      \strng{authornamehash}{109f22ee101ee8ee7002617fa2de3a3e}
+      \strng{authorfullhash}{109f22ee101ee8ee7002617fa2de3a3e}
+      \strng{authorfullhashraw}{109f22ee101ee8ee7002617fa2de3a3e}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{russian}
+      \field{media}{text}
+      \field{pagetotal}{276}
+      \field{title}{Теория плазменных неустойчивостей}
+      \field{year}{1971}
+      \keyw{,biblioauthor,bibliofull}
+    \endentry
+    \entry{Baumjohann2012}{book}{}{}
+      \name{author}{2}{}{%
+        {{hash=2c010fc82ccd7c3e49d7884e52f3abb0}{%
+           family={Baumjohann},
+           familyi={B\bibinitperiod},
+           given={W.},
+           giveni={W\bibinitperiod}}}%
+        {{hash=7e364e7126505b2ab62336b28e863e4b}{%
+           family={Treumann},
+           familyi={T\bibinitperiod},
+           given={R.A.},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {Imperial College Press}%
+      }
+      \strng{namehash}{21365521dadfd034957e09395c12cde9}
+      \strng{fullhash}{21365521dadfd034957e09395c12cde9}
+      \strng{fullhashraw}{21365521dadfd034957e09395c12cde9}
+      \strng{bibnamehash}{21365521dadfd034957e09395c12cde9}
+      \strng{authorbibnamehash}{21365521dadfd034957e09395c12cde9}
+      \strng{authornamehash}{21365521dadfd034957e09395c12cde9}
+      \strng{authorfullhash}{21365521dadfd034957e09395c12cde9}
+      \strng{authorfullhashraw}{21365521dadfd034957e09395c12cde9}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{media}{text}
+      \field{pagetotal}{496}
+      \field{title}{Basic Space Plasma Physics}
+      \field{year}{2012}
+      \keyw{,biblioauthor,bibliofull}
+    \endentry
+    \entry{Treumann2009}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=7e364e7126505b2ab62336b28e863e4b}{%
+           family={Treumann},
+           familyi={T\bibinitperiod},
+           given={R.\bibnamedelimi A.},
+           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{7e364e7126505b2ab62336b28e863e4b}
+      \strng{fullhash}{7e364e7126505b2ab62336b28e863e4b}
+      \strng{fullhashraw}{7e364e7126505b2ab62336b28e863e4b}
+      \strng{bibnamehash}{7e364e7126505b2ab62336b28e863e4b}
+      \strng{authorbibnamehash}{7e364e7126505b2ab62336b28e863e4b}
+      \strng{authornamehash}{7e364e7126505b2ab62336b28e863e4b}
+      \strng{authorfullhash}{7e364e7126505b2ab62336b28e863e4b}
+      \strng{authorfullhashraw}{7e364e7126505b2ab62336b28e863e4b}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{17}
+      \field{journaltitle}{Astron. Astrophys. Rev.}
+      \field{langid}{english}
+      \field{media}{text}
+      \field{title}{Fundamentals of collisionless shocks for astrophysical application, 1. Non-relativistic shocks}
+      \field{year}{2009}
+      \field{number}{4}
+      \range{number}{1}
+      \field{pages}{409\bibrangedash 535}
+      \range{pages}{127}
+      \field{volume}{17}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1007/s00159-009-0024-2
+      \endverb
+      \keyw{,biblioauthor,bibliofull}
+    \endentry
+    \entry{Marcowith2016}{article}{useauthor=false}{}
+      \name{author}{15}{}{%
+        {{hash=6a9e8db4ec0134118557c288b18b7b33}{%
+           family={Marcowith},
+           familyi={M\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+        {{hash=6ad63be2d0acc3398bd54fb1831988d0}{%
+           family={Bret},
+           familyi={B\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+        {{hash=aedf8fdf2c67cd60db6fff8d24dff3c0}{%
+           family={Bykov},
+           familyi={B\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+        {{hash=55e105ccc9a86c7278141096c73d0521}{%
+           family={Dieckman},
+           familyi={D\bibinitperiod},
+           given={M\bibnamedelima E},
+           giveni={M\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=7be298d4216e81839d7ef9f2965120ec}{%
+           family={Drury},
+           familyi={D\bibinitperiod},
+           given={L\bibnamedelima O'C},
+           giveni={L\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
+        {{hash=333796bee23617318ec835403d13ce65}{%
+           family={Lembège},
+           familyi={L\bibinitperiod},
+           given={B},
+           giveni={B\bibinitperiod}}}%
+        {{hash=44fba60c18860138d49606cc274018e6}{%
+           family={Lemoine},
+           familyi={L\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod}}}%
+        {{hash=f0bc4b81cdf457209ecdeb8773df55d4}{%
+           family={Morlino},
+           familyi={M\bibinitperiod},
+           given={G},
+           giveni={G\bibinitperiod}}}%
+        {{hash=b6c96fe4d98308eba3e50ecb783605db}{%
+           family={Murphy},
+           familyi={M\bibinitperiod},
+           given={G},
+           giveni={G\bibinitperiod}}}%
+        {{hash=43ed5d2f7d755d3e996a862e5d4040bb}{%
+           family={Pelletier},
+           familyi={P\bibinitperiod},
+           given={G},
+           giveni={G\bibinitperiod}}}%
+        {{hash=07df303e024b389ac7531c33228ca80d}{%
+           family={Plotnikov},
+           familyi={P\bibinitperiod},
+           given={I},
+           giveni={I\bibinitperiod}}}%
+        {{hash=bf47f06b82b2514e3a0cfc5b67d19823}{%
+           family={Reville},
+           familyi={R\bibinitperiod},
+           given={B},
+           giveni={B\bibinitperiod}}}%
+        {{hash=addc6723cdcfa052af89c56c7619b0c3}{%
+           family={Riquelme},
+           familyi={R\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod}}}%
+        {{hash=713436e302e0d172b947b9896cac5ef9}{%
+           family={Sironi},
+           familyi={S\bibinitperiod},
+           given={L},
+           giveni={L\bibinitperiod}}}%
+        {{hash=80cea12e350dfcc1bafa4dfcc29a3039}{%
+           family={{Stockem Novo}},
+           familyi={S\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{e96d4d727e7240f44079de224afd37c4}
+      \strng{authornamehash}{e96d4d727e7240f44079de224afd37c4}
+      \strng{authorfullhash}{a5349d06135de2aa2fed91f1b10065e4}
+      \strng{authorfullhashraw}{a5349d06135de2aa2fed91f1b10065e4}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{79}
+      \field{journaltitle}{Rep. Prog. Phys.}
+      \field{langid}{english}
+      \field{media}{text}
+      \field{title}{The microphysics of collisionless shock waves}
+      \field{year}{2016}
+      \field{number}{4}
+      \range{number}{1}
+      \field{pages}{046901}
+      \range{pages}{1}
+      \field{volume}{79}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1088/0034-4885/79/4/046901
+      \endverb
+      \keyw{,biblioauthor,bibliofull}
+    \endentry
+    \entry{Weibel1959}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=4e31957a50be449af65a42c4c39a68d1}{%
+           family={Weibel},
+           familyi={W\bibinitperiod},
+           given={Erich\bibnamedelima S.},
+           giveni={E\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Physical Society ({APS})}%
+      }
+      \strng{namehash}{4e31957a50be449af65a42c4c39a68d1}
+      \strng{fullhash}{4e31957a50be449af65a42c4c39a68d1}
+      \strng{fullhashraw}{4e31957a50be449af65a42c4c39a68d1}
+      \strng{bibnamehash}{4e31957a50be449af65a42c4c39a68d1}
+      \strng{authorbibnamehash}{4e31957a50be449af65a42c4c39a68d1}
+      \strng{authornamehash}{4e31957a50be449af65a42c4c39a68d1}
+      \strng{authorfullhash}{4e31957a50be449af65a42c4c39a68d1}
+      \strng{authorfullhashraw}{4e31957a50be449af65a42c4c39a68d1}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{2}
+      \field{journaltitle}{Phys. Rev. Lett.}
+      \field{langid}{english}
+      \field{media}{text}
+      \field{title}{Spontaneously Growing Transverse Waves in a Plasma Due to an Anisotropic Velocity Distribution}
+      \field{year}{1959}
+      \field{number}{3}
+      \range{number}{1}
+      \field{pages}{83\bibrangedash 84}
+      \range{pages}{2}
+      \field{volume}{2}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1103/physrevlett.2.83
+      \endverb
+      \keyw{,biblioauthor,bibliofull}
+    \endentry
+    \entry{Fried1959}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=10045a72536b22100c24dd47b6c76a12}{%
+           family={Fried},
+           familyi={F\bibinitperiod},
+           given={Burton\bibnamedelima D.},
+           giveni={B\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {{AIP} Publishing}%
+      }
+      \strng{namehash}{10045a72536b22100c24dd47b6c76a12}
+      \strng{fullhash}{10045a72536b22100c24dd47b6c76a12}
+      \strng{fullhashraw}{10045a72536b22100c24dd47b6c76a12}
+      \strng{bibnamehash}{10045a72536b22100c24dd47b6c76a12}
+      \strng{authorbibnamehash}{10045a72536b22100c24dd47b6c76a12}
+      \strng{authornamehash}{10045a72536b22100c24dd47b6c76a12}
+      \strng{authorfullhash}{10045a72536b22100c24dd47b6c76a12}
+      \strng{authorfullhashraw}{10045a72536b22100c24dd47b6c76a12}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{2}
+      \field{journaltitle}{Phys. Fluids}
+      \field{langid}{english}
+      \field{media}{text}
+      \field{title}{Mechanism for Instability of Transverse Plasma Waves}
+      \field{year}{1959}
+      \field{number}{3}
+      \range{number}{1}
+      \field{pages}{337}
+      \range{pages}{1}
+      \field{volume}{2}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1063/1.1705933
+      \endverb
+      \keyw{,biblioauthor,bibliofull}
+    \endentry
+    \entry{Kocharovsky2016}{article}{useauthor=false}{}
+      \name{author}{4}{}{%
+        {{hash=0197f70ee3ee477fe40d979ae312d7db}{%
+           family={Кочаровский},
+           familyi={К\bibinitperiod},
+           given={В.\bibnamedelimi В.},
+           giveni={В\bibinitperiod\bibinitdelim В\bibinitperiod}}}%
+        {{hash=0197f70ee3ee477fe40d979ae312d7db}{%
+           family={Кочаровский},
+           familyi={К\bibinitperiod},
+           given={В.\bibnamedelimi В.},
+           giveni={В\bibinitperiod\bibinitdelim В\bibinitperiod}}}%
+        {{hash=1f35101777c46ede77ceab50d154e96b}{%
+           family={Мартьянов},
+           familyi={М\bibinitperiod},
+           given={В.\bibnamedelimi Ю.},
+           giveni={В\bibinitperiod\bibinitdelim Ю\bibinitperiod}}}%
+        {{hash=c2bd9aba8b2ace5503d332236d6d15c0}{%
+           family={Тарасов},
+           familyi={Т\bibinitperiod},
+           given={С.\bibnamedelimi В.},
+           giveni={С\bibinitperiod\bibinitdelim В\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{cad8bd208cb743d56caeb9e634c42f32}
+      \strng{authornamehash}{cad8bd208cb743d56caeb9e634c42f32}
+      \strng{authorfullhash}{bd5a7238d0e62338300e62546d64c9bf}
+      \strng{authorfullhashraw}{bd5a7238d0e62338300e62546d64c9bf}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{186}
+      \field{journaltitle}{УФН}
+      \field{langid}{russian}
+      \field{media}{text}
+      \field{title}{Аналитическая теория самосогласованных токовых структур в бесстолкновительной плазме}
+      \field{year}{2016}
+      \field{number}{12}
+      \range{number}{1}
+      \field{pages}{1267\bibrangedash 1314}
+      \range{pages}{48}
+      \field{volume}{186}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.3367/UFNr.2016.08.037893
+      \endverb
+      \keyw{,biblioauthor,bibliofull}
+    \endentry
+    \entry{Romanov2004}{article}{useauthor=false}{}
+      \name{author}{5}{}{%
+        {{hash=e2e8b30e078ad904e1046591efb777ae}{%
+           family={Romanov},
+           familyi={R\bibinitperiod},
+           given={D.\bibnamedelimi V.},
+           giveni={D\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+        {{hash=73f7d545618a0945b8781a3cb9625896}{%
+           family={Bychenkov},
+           familyi={B\bibinitperiod},
+           given={V.\bibnamedelimi Yu.},
+           giveni={V\bibinitperiod\bibinitdelim Y\bibinitperiod}}}%
+        {{hash=3cde78ba6ab91ef7b60e80ecfc153a54}{%
+           family={Rozmus},
+           familyi={R\bibinitperiod},
+           given={W.},
+           giveni={W\bibinitperiod}}}%
+        {{hash=9cc6f251a93ba43f7444961cf7dc6159}{%
+           family={Capjack},
+           familyi={C\bibinitperiod},
+           given={C.\bibnamedelimi E.},
+           giveni={C\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=d86e4b0264c16ae3d0a262c34a86ccf1}{%
+           family={Fedosejevs},
+           familyi={F\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{8bfa909daad87d631e4d64941ba73ec7}
+      \strng{authornamehash}{8bfa909daad87d631e4d64941ba73ec7}
+      \strng{authorfullhash}{1c73b4761a007e882e44491016a9b569}
+      \strng{authorfullhashraw}{1c73b4761a007e882e44491016a9b569}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{93}
+      \field{journaltitle}{Phys. Rev. Lett.}
+      \field{langid}{english}
+      \field{media}{text}
+      \field{title}{Self-Organization of a Plasma due to {3D} Evolution of the {W}eibel Instability}
+      \field{year}{2004}
+      \field{number}{21}
+      \range{number}{1}
+      \field{pages}{215004}
+      \range{pages}{1}
+      \field{volume}{93}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1103/physrevlett.93.215004
+      \endverb
+      \keyw{,biblioauthor,bibliofull}
+    \endentry
+    \entry{Borodachev2016_Radiofiz}{article}{useauthor=false}{}
+      \name{author}{6}{}{%
+        {{hash=7e2fdcd7e61c2468d3a20732716e5c24}{%
+           family={Бородачёв},
+           familyi={Б\bibinitperiod},
+           given={Л.\bibnamedelimi В.},
+           giveni={Л\bibinitperiod\bibinitdelim В\bibinitperiod}}}%
+        {{hash=17b7e34ca99001f99fb834451c629c5f}{%
+           family={Гарасёв},
+           familyi={Г\bibinitperiod},
+           given={М.\bibnamedelimi А.},
+           giveni={М\bibinitperiod\bibinitdelim А\bibinitperiod}}}%
+        {{hash=5af2605a8328f6ee9be06bfa4db7600f}{%
+           family={Коломиец},
+           familyi={К\bibinitperiod},
+           given={Д.\bibnamedelimi О.},
+           giveni={Д\bibinitperiod\bibinitdelim О\bibinitperiod}}}%
+        {{hash=0197f70ee3ee477fe40d979ae312d7db}{%
+           family={Кочаровский},
+           familyi={К\bibinitperiod},
+           given={В.\bibnamedelimi В.},
+           giveni={В\bibinitperiod\bibinitdelim В\bibinitperiod}}}%
+        {{hash=1f35101777c46ede77ceab50d154e96b}{%
+           family={Мартьянов},
+           familyi={М\bibinitperiod},
+           given={В.\bibnamedelimi Ю.},
+           giveni={В\bibinitperiod\bibinitdelim Ю\bibinitperiod}}}%
+        {{hash=b2f20e2506ca04da6a7573c285c8378d}{%
+           family={Нечаев},
+           familyi={Н\bibinitperiod},
+           given={А.\bibnamedelimi А.},
+           giveni={А\bibinitperiod\bibinitdelim А\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{27368e0354676b3877871c5b1a736627}
+      \strng{authornamehash}{27368e0354676b3877871c5b1a736627}
+      \strng{authorfullhash}{f345cee0694ea8ba8e25598ddce955e0}
+      \strng{authorfullhashraw}{f345cee0694ea8ba8e25598ddce955e0}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labeltitlesource}{title}
+      \field{internalsortissue}{12}
+      \field{internalsortvolume}{59}
+      \field{journaltitle}{Изв. вузов. Радиофизика}
+      \field{langid}{russian}
+      \field{media}{text}
+      \field{title}{Динамика самосогласованного магнитного поля и диффузионное рассеяние ионов в плазме с сильной анизотропией температуры}
+      \field{year}{2016}
+      \field{issue}{12}
+      \range{issue}{1}
+      \field{pages}{1107\bibrangedash 1117}
+      \range{pages}{11}
+      \field{volume}{59}
+      \range{volume}{1}
+      \keyw{,biblioauthor,bibliofull}
+    \endentry
+    \entry{Krall1975}{book}{}{}
+      \name{author}{2}{}{%
+        {{hash=f5cf4e54b0349608ec6d4097e42e95b1}{%
+           family={Кролл},
+           familyi={К\bibinitperiod},
+           given={Н.},
+           giveni={Н\bibinitperiod}}}%
+        {{hash=0aac5654aaeea7115d2ea57b409331ea}{%
+           family={Трайвелпис},
+           familyi={Т\bibinitperiod},
+           given={А.},
+           giveni={А\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Москва}%
+      }
+      \list{publisher}{1}{%
+        {Мир}%
+      }
+      \strng{namehash}{c65a52e786609df8c2791ad1aa750c14}
+      \strng{fullhash}{c65a52e786609df8c2791ad1aa750c14}
+      \strng{fullhashraw}{c65a52e786609df8c2791ad1aa750c14}
+      \strng{bibnamehash}{c65a52e786609df8c2791ad1aa750c14}
+      \strng{authorbibnamehash}{c65a52e786609df8c2791ad1aa750c14}
+      \strng{authornamehash}{c65a52e786609df8c2791ad1aa750c14}
+      \strng{authorfullhash}{c65a52e786609df8c2791ad1aa750c14}
+      \strng{authorfullhashraw}{c65a52e786609df8c2791ad1aa750c14}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{russian}
+      \field{media}{text}
+      \field{pagetotal}{525}
+      \field{title}{Основы физики плазмы}
+      \field{year}{1975}
+      \keyw{,biblioauthor,bibliofull}
+    \endentry
+    \entry{Kato2005}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=99013ceefcc97a9842d3c3e105f15af0}{%
+           family={Kato},
+           familyi={K\bibinitperiod},
+           given={Tsunehiko\bibnamedelima N.},
+           giveni={T\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {{AIP} Publishing}%
+      }
+      \strng{namehash}{99013ceefcc97a9842d3c3e105f15af0}
+      \strng{fullhash}{99013ceefcc97a9842d3c3e105f15af0}
+      \strng{fullhashraw}{99013ceefcc97a9842d3c3e105f15af0}
+      \strng{bibnamehash}{99013ceefcc97a9842d3c3e105f15af0}
+      \strng{authorbibnamehash}{99013ceefcc97a9842d3c3e105f15af0}
+      \strng{authornamehash}{99013ceefcc97a9842d3c3e105f15af0}
+      \strng{authorfullhash}{99013ceefcc97a9842d3c3e105f15af0}
+      \strng{authorfullhashraw}{99013ceefcc97a9842d3c3e105f15af0}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{12}
+      \field{journaltitle}{Phys. Plasmas}
+      \field{langid}{english}
+      \field{media}{text}
+      \field{title}{Saturation mechanism of the {Weibel} instability in weakly magnetized plasmas}
+      \field{year}{2005}
+      \field{number}{8}
+      \range{number}{1}
+      \field{pages}{080705}
+      \range{pages}{1}
+      \field{volume}{12}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1063/1.2017942
+      \endverb
+      \keyw{,biblioauthor,bibliofull}
+    \endentry
+    \entry{Borodachev2010}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=c0d8d10465e1f2c0a110e3dfe60a3480}{%
+           family={Borodachev},
+           familyi={B\bibinitperiod},
+           given={L.\bibnamedelimi V.},
+           giveni={L\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+        {{hash=132a5bfb69f091f600b7c696a451bacb}{%
+           family={Kolomiets},
+           familyi={K\bibinitperiod},
+           given={D.\bibnamedelimi O.},
+           giveni={D\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
+      }
+      \strng{namehash}{aa61181b36f5f189c5cdc3a6d9c18f97}
+      \strng{fullhash}{aa61181b36f5f189c5cdc3a6d9c18f97}
+      \strng{fullhashraw}{aa61181b36f5f189c5cdc3a6d9c18f97}
+      \strng{bibnamehash}{aa61181b36f5f189c5cdc3a6d9c18f97}
+      \strng{authorbibnamehash}{aa61181b36f5f189c5cdc3a6d9c18f97}
+      \strng{authornamehash}{aa61181b36f5f189c5cdc3a6d9c18f97}
+      \strng{authorfullhash}{aa61181b36f5f189c5cdc3a6d9c18f97}
+      \strng{authorfullhashraw}{aa61181b36f5f189c5cdc3a6d9c18f97}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{77}
+      \field{journaltitle}{J. Plasma Phys.}
+      \field{langid}{english}
+      \field{media}{text}
+      \field{title}{Single-species {Weibel} instability of radiationless plasma}
+      \field{year}{2010}
+      \field{number}{2}
+      \range{number}{1}
+      \field{pages}{277\bibrangedash 287}
+      \range{pages}{11}
+      \field{volume}{77}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1017/s0022377810000188
+      \endverb
+      \keyw{,biblioauthor,bibliofull}
+    \endentry
+    \entry{Ruyer2015}{article}{useauthor=false}{}
+      \name{author}{4}{}{%
+        {{hash=463c256ff05cda619efb1f77a940d0b6}{%
+           family={Ruyer},
+           familyi={R\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+        {{hash=e355e62f17041a1b3c107aab007b5908}{%
+           family={Gremillet},
+           familyi={G\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod}}}%
+        {{hash=b4b9ef62a0086516d4d8006bc4e09fd5}{%
+           family={Debayle},
+           familyi={D\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=69116b5d153cd4ab4857285867017093}{%
+           family={Bonnaud},
+           familyi={B\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{477a63ef46f9b37a01326092348801f9}
+      \strng{authornamehash}{477a63ef46f9b37a01326092348801f9}
+      \strng{authorfullhash}{6cd4ccc301833526b2600e2203ccb0cd}
+      \strng{authorfullhashraw}{6cd4ccc301833526b2600e2203ccb0cd}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{22}
+      \field{journaltitle}{Phys. Plasmas}
+      \field{langid}{english}
+      \field{media}{text}
+      \field{title}{Nonlinear dynamics of the ion Weibel-filamentation instability: An analytical model for the evolution of the plasma and spectral properties}
+      \field{year}{2015}
+      \field{number}{3}
+      \range{number}{1}
+      \field{pages}{032102}
+      \range{pages}{1}
+      \field{volume}{22}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1063/1.4913651
+      \endverb
+      \keyw{,biblioauthor,bibliofull}
+    \endentry
+    \entry{Lazar2022}{article}{useauthor=false}{}
+      \name{author}{6}{}{%
+        {{hash=6cc6fd75c3c53186ce8035f4572a2dfd}{%
+           family={Lazar},
+           familyi={L\bibinitperiod},
+           given={Marian},
+           giveni={M\bibinitperiod}}}%
+        {{hash=80a5021abd8b650bd504ec9822d81ac6}{%
+           family={López},
+           familyi={L\bibinitperiod},
+           given={R.A.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=18f55300002958fd80bbb05f87b821df}{%
+           family={Shaaban},
+           familyi={S\bibinitperiod},
+           given={Shaaban\bibnamedelima Mohammed},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=f2f65d73340235e4b41465fa2576cdfd}{%
+           family={Poedts},
+           familyi={P\bibinitperiod},
+           given={Stefaan},
+           giveni={S\bibinitperiod}}}%
+        {{hash=0d9534a080bff36028b0da1f62cc5cd0}{%
+           family={Yoon},
+           familyi={Y\bibinitperiod},
+           given={Peter\bibnamedelima Haesung},
+           giveni={P\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=3790bf84752d51ab80dca8ff14adbc3e}{%
+           family={Fichtner},
+           familyi={F\bibinitperiod},
+           given={Horst},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{fed3222fcad0f8135b82914a4d4e500e}
+      \strng{authornamehash}{fed3222fcad0f8135b82914a4d4e500e}
+      \strng{authorfullhash}{eccd7d73d0f257582af94d62a36fba46}
+      \strng{authorfullhashraw}{eccd7d73d0f257582af94d62a36fba46}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{8}
+      \field{journaltitle}{Front. Astron. Space Sci.}
+      \field{langid}{english}
+      \field{media}{text}
+      \field{title}{Temperature Anisotropy Instabilities Stimulated by the Solar Wind Suprathermal Populations}
+      \field{year}{2022}
+      \field{pages}{77559}
+      \range{pages}{1}
+      \field{volume}{8}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.3389/fspas.2021.777559
+      \endverb
+      \keyw{,biblioauthor,bibliofull}
+    \endentry
+    \entry{Gary1993}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=71c1bfa74cf76d433ebf22596bcccea2}{%
+           family={Gary},
+           familyi={G\bibinitperiod},
+           given={S.\bibnamedelimi Peter},
+           giveni={S\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cambridge}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{71c1bfa74cf76d433ebf22596bcccea2}
+      \strng{fullhash}{71c1bfa74cf76d433ebf22596bcccea2}
+      \strng{fullhashraw}{71c1bfa74cf76d433ebf22596bcccea2}
+      \strng{bibnamehash}{71c1bfa74cf76d433ebf22596bcccea2}
+      \strng{authorbibnamehash}{71c1bfa74cf76d433ebf22596bcccea2}
+      \strng{authornamehash}{71c1bfa74cf76d433ebf22596bcccea2}
+      \strng{authorfullhash}{71c1bfa74cf76d433ebf22596bcccea2}
+      \strng{authorfullhashraw}{71c1bfa74cf76d433ebf22596bcccea2}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{media}{text}
+      \field{pagetotal}{184}
+      \field{title}{Theory of space plasma microinstabilities}
+      \field{year}{1993}
+      \verb{doi}
+      \verb 10.1017/cbo9780511551512
+      \endverb
+      \keyw{,biblioauthor,bibliofull}
+    \endentry
+    \entry{Zhou2022}{article}{useauthor=false}{}
+      \name{author}{5}{}{%
+        {{hash=49c7a843436ec762e1d5580c80bd4413}{%
+           family={Zhou},
+           familyi={Z\bibinitperiod},
+           given={Muni},
+           giveni={M\bibinitperiod}}}%
+        {{hash=9b117e546d2fc9cdef9796002d1d33bc}{%
+           family={Zhdankin},
+           familyi={Z\bibinitperiod},
+           given={Vladimir},
+           giveni={V\bibinitperiod}}}%
+        {{hash=4c171c0c08e09b54dd18347713a61cb2}{%
+           family={Kunz},
+           familyi={K\bibinitperiod},
+           given={Matthew\bibnamedelima W.},
+           giveni={M\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=34f39aaf0b121bf150010a47e37ebb14}{%
+           family={Loureiro},
+           familyi={L\bibinitperiod},
+           given={Nuno\bibnamedelima F.},
+           giveni={N\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=1bb37ea4115a32b5698f7596e2c2cf3b}{%
+           family={Uzdensky},
+           familyi={U\bibinitperiod},
+           given={Dmitri\bibnamedelima A.},
+           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{2db1bc7849db636d4a5cfaa14ea82dcc}
+      \strng{authornamehash}{2db1bc7849db636d4a5cfaa14ea82dcc}
+      \strng{authorfullhash}{50d9cf98a717fa98fa32ad4ea7a70800}
+      \strng{authorfullhashraw}{50d9cf98a717fa98fa32ad4ea7a70800}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{119}
+      \field{journaltitle}{Proc. Natl. Acad. Sci. U.S.A.}
+      \field{langid}{english}
+      \field{media}{text}
+      \field{title}{Spontaneous magnetization of collisionless plasma}
+      \field{year}{2022}
+      \field{number}{19}
+      \range{number}{1}
+      \field{pages}{e2119831119}
+      \range{pages}{-1}
+      \field{volume}{119}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1073/pnas.2119831119
+      \endverb
+      \keyw{,biblioauthor,bibliofull}
+    \endentry
+    \entry{Kalman1968}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=8d14ee085725ea8f1bdbb6e4b7f5cbc9}{%
+           family={Kalman},
+           familyi={K\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {{AIP} Publishing}%
+      }
+      \strng{namehash}{8d14ee085725ea8f1bdbb6e4b7f5cbc9}
+      \strng{fullhash}{8d14ee085725ea8f1bdbb6e4b7f5cbc9}
+      \strng{fullhashraw}{8d14ee085725ea8f1bdbb6e4b7f5cbc9}
+      \strng{bibnamehash}{8d14ee085725ea8f1bdbb6e4b7f5cbc9}
+      \strng{authorbibnamehash}{8d14ee085725ea8f1bdbb6e4b7f5cbc9}
+      \strng{authornamehash}{8d14ee085725ea8f1bdbb6e4b7f5cbc9}
+      \strng{authorfullhash}{8d14ee085725ea8f1bdbb6e4b7f5cbc9}
+      \strng{authorfullhashraw}{8d14ee085725ea8f1bdbb6e4b7f5cbc9}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{11}
+      \field{journaltitle}{Phys. Fluids}
+      \field{langid}{english}
+      \field{media}{text}
+      \field{title}{Anisotropic Temperature Plasma Instabilities}
+      \field{year}{1968}
+      \field{number}{8}
+      \range{number}{1}
+      \field{pages}{1797}
+      \range{pages}{1}
+      \field{volume}{11}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1063/1.1692198
+      \endverb
+      \keyw{,biblioauthor,bibliofull}
+    \endentry
+    \entry{Morse1971}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=3015008f1a35164384d20607f916fe47}{%
+           family={Morse},
+           familyi={M\bibinitperiod},
+           given={R.\bibnamedelimi L.},
+           giveni={R\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=a98694fea6debf046d227ec301e45c27}{%
+           family={Nielson},
+           familyi={N\bibinitperiod},
+           given={C.\bibnamedelimi W.},
+           giveni={C\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {{AIP} Publishing}%
+      }
+      \strng{namehash}{ec77f1a132a60a439717586eb4f4fd2b}
+      \strng{fullhash}{ec77f1a132a60a439717586eb4f4fd2b}
+      \strng{fullhashraw}{ec77f1a132a60a439717586eb4f4fd2b}
+      \strng{bibnamehash}{ec77f1a132a60a439717586eb4f4fd2b}
+      \strng{authorbibnamehash}{ec77f1a132a60a439717586eb4f4fd2b}
+      \strng{authornamehash}{ec77f1a132a60a439717586eb4f4fd2b}
+      \strng{authorfullhash}{ec77f1a132a60a439717586eb4f4fd2b}
+      \strng{authorfullhashraw}{ec77f1a132a60a439717586eb4f4fd2b}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{14}
+      \field{journaltitle}{Phys. Fluids}
+      \field{langid}{english}
+      \field{media}{text}
+      \field{title}{Numerical Simulation of the {Weibel} Instability in One and Two Dimensions}
+      \field{year}{1971}
+      \field{number}{4}
+      \range{number}{1}
+      \field{pages}{830}
+      \range{pages}{1}
+      \field{volume}{14}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1063/1.1693518
+      \endverb
+      \keyw{,biblioauthor,bibliofull}
+    \endentry
+    \entry{Lazar2006}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=e71c7fb2f6cf02a46e1c5bb453f6ff58}{%
+           family={Lazar},
+           familyi={L\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=251c4eba6f365597cbe851cc357b631e}{%
+           family={Schlickeiser},
+           familyi={S\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=0ecc33f07231bf548b087d4425d91ce9}{%
+           family={Shukla},
+           familyi={S\bibinitperiod},
+           given={P.\bibnamedelimi K.},
+           giveni={P\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \strng{namehash}{e11ac984db5f081c9d2717d77ac753c2}
+      \strng{fullhash}{e11ac984db5f081c9d2717d77ac753c2}
+      \strng{fullhashraw}{e11ac984db5f081c9d2717d77ac753c2}
+      \strng{bibnamehash}{e11ac984db5f081c9d2717d77ac753c2}
+      \strng{authorbibnamehash}{e11ac984db5f081c9d2717d77ac753c2}
+      \strng{authornamehash}{e11ac984db5f081c9d2717d77ac753c2}
+      \strng{authorfullhash}{e11ac984db5f081c9d2717d77ac753c2}
+      \strng{authorfullhashraw}{e11ac984db5f081c9d2717d77ac753c2}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{13}
+      \field{journaltitle}{Phys. Plasmas}
+      \field{langid}{english}
+      \field{media}{text}
+      \field{title}{Cumulative effect of the filamentation and {W}eibel instabilities in counterstreaming thermal plasmas}
+      \field{year}{2006}
+      \field{number}{10}
+      \range{number}{1}
+      \field{pages}{102107}
+      \range{pages}{1}
+      \field{volume}{13}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1063/1.2357047
+      \endverb
+      \keyw{,biblioauthor,bibliofull}
+    \endentry
+    \entry{Stockem2009}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=6486616c170530aa941120d1fad14a38}{%
+           family={Stockem},
+           familyi={S\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+        {{hash=5966b3c072f78133578a2d6f89fb9084}{%
+           family={Dieckmann},
+           familyi={D\bibinitperiod},
+           given={M\bibnamedelima E},
+           giveni={M\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=251c4eba6f365597cbe851cc357b631e}{%
+           family={Schlickeiser},
+           familyi={S\bibinitperiod},
+           given={R},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{ce88d23f5bdfb4589afe12f2e3b4b899}
+      \strng{fullhash}{ce88d23f5bdfb4589afe12f2e3b4b899}
+      \strng{fullhashraw}{ce88d23f5bdfb4589afe12f2e3b4b899}
+      \strng{bibnamehash}{ce88d23f5bdfb4589afe12f2e3b4b899}
+      \strng{authorbibnamehash}{ce88d23f5bdfb4589afe12f2e3b4b899}
+      \strng{authornamehash}{ce88d23f5bdfb4589afe12f2e3b4b899}
+      \strng{authorfullhash}{ce88d23f5bdfb4589afe12f2e3b4b899}
+      \strng{authorfullhashraw}{ce88d23f5bdfb4589afe12f2e3b4b899}
+      \field{extraname}{1}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{51}
+      \field{journaltitle}{Plasma Phys. Control. Fusion}
+      \field{langid}{english}
+      \field{media}{text}
+      \field{title}{{PIC} simulations of the thermal anisotropy-driven {W}eibel instability: field growth and phase space evolution upon saturation}
+      \field{year}{2009}
+      \field{number}{7}
+      \range{number}{1}
+      \field{pages}{075014}
+      \range{pages}{1}
+      \field{volume}{51}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1088/0741-3335/51/7/075014
+      \endverb
+      \keyw{,biblioauthor,bibliofull}
+    \endentry
+    \entry{SchaeferRolffs2006}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=93af2b100ba030471c42fb3fc9b51a50}{%
+           family={Schaefer-Rolffs},
+           familyi={S\bibinithyphendelim R\bibinitperiod},
+           given={U.},
+           giveni={U\bibinitperiod}}}%
+        {{hash=e8506cb36e73cfe897c64f867becf0c9}{%
+           family={Lerche},
+           familyi={L\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod}}}%
+        {{hash=251c4eba6f365597cbe851cc357b631e}{%
+           family={Schlickeiser},
+           familyi={S\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {{AIP} Publishing}%
+      }
+      \strng{namehash}{fb91bd01368b94a861beecd73742dade}
+      \strng{fullhash}{fb91bd01368b94a861beecd73742dade}
+      \strng{fullhashraw}{fb91bd01368b94a861beecd73742dade}
+      \strng{bibnamehash}{fb91bd01368b94a861beecd73742dade}
+      \strng{authorbibnamehash}{fb91bd01368b94a861beecd73742dade}
+      \strng{authornamehash}{fb91bd01368b94a861beecd73742dade}
+      \strng{authorfullhash}{fb91bd01368b94a861beecd73742dade}
+      \strng{authorfullhashraw}{fb91bd01368b94a861beecd73742dade}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{13}
+      \field{journaltitle}{Phys. Plasmas}
+      \field{langid}{english}
+      \field{media}{text}
+      \field{title}{The relativistic kinetic {W}eibel instability: {G}eneral arguments and specific illustrations}
+      \field{year}{2006}
+      \field{number}{1}
+      \range{number}{1}
+      \field{pages}{012107}
+      \range{pages}{1}
+      \field{volume}{13}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1063/1.2164812
+      \endverb
+      \keyw{,biblioauthor,bibliofull}
+    \endentry
+    \entry{Kuznetsov2022}{article}{useauthor=false}{}
+      \name{author}{5}{}{%
+        {{hash=aaefe808ab39bd9062af8744d08ef61c}{%
+           family={Kuznetsov},
+           familyi={K\bibinitperiod},
+           given={A.\bibnamedelimi A.},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=56965ba5790720f2092209ecf0723d29}{%
+           family={Kocharovskii},
+           familyi={K\bibinitperiod},
+           given={V.\bibnamedelimi V.},
+           giveni={V\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+        {{hash=c9a85434cbeb9d51e6c042802f8e3544}{%
+           family={Kocharovskii},
+           familyi={K\bibinitperiod},
+           given={Vl.\bibnamedelimi V.},
+           giveni={V\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+        {{hash=ef24da5588e37f18fd46b6b3fa9c1559}{%
+           family={Nechaev},
+           familyi={N\bibinitperiod},
+           given={A.\bibnamedelimi A.},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=88f06fb1194c710b3f5e9aac8c15f943}{%
+           family={Garasev},
+           familyi={G\bibinitperiod},
+           given={M.\bibnamedelimi A.},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{6c368d9417918364cf489bbfda87e4f2}
+      \strng{authornamehash}{6c368d9417918364cf489bbfda87e4f2}
+      \strng{authorfullhash}{48231b026cc7584df79c813d51593568}
+      \strng{authorfullhashraw}{48231b026cc7584df79c813d51593568}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{48}
+      \field{journaltitle}{Plasma Phys. Rep.}
+      \field{langid}{english}
+      \field{media}{text}
+      \field{title}{Saturating Magnetic Field of Weibel Instability in Plasmas with Bi-Maxwellian and Bikappa Particle Distributions}
+      \field{year}{2022}
+      \field{number}{9}
+      \range{number}{1}
+      \field{pages}{973\bibrangedash 982}
+      \range{pages}{10}
+      \field{volume}{48}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1134/s1063780x22600700
+      \endverb
+      \keyw{,biblioauthor,bibliofull}
+    \endentry
+    \entry{Medvedev2005}{article}{useauthor=false}{}
+      \name{author}{5}{}{%
+        {{hash=58a5d44f10f06a9b405d1e7f5db87491}{%
+           family={Medvedev},
+           familyi={M\bibinitperiod},
+           given={Mikhail\bibnamedelima V.},
+           giveni={M\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+        {{hash=d4443395e9056a306e8e8d2994551b07}{%
+           family={Fiore},
+           familyi={F\bibinitperiod},
+           given={Massimiliano},
+           giveni={M\bibinitperiod}}}%
+        {{hash=270dc3aa20fa0b58a63a89049b9056de}{%
+           family={Fonseca},
+           familyi={F\bibinitperiod},
+           given={Ricardo\bibnamedelima A.},
+           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=224462c76df4f9a12e71b896cef6c952}{%
+           family={Silva},
+           familyi={S\bibinitperiod},
+           given={Luis\bibnamedelima O.},
+           giveni={L\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
+        {{hash=9aa9e55782750b5bc992ea6e1a9573ba}{%
+           family={Mori},
+           familyi={M\bibinitperiod},
+           given={Warren\bibnamedelima B.},
+           giveni={W\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{54b36b0ed25caeea5e8b992739f0b6a9}
+      \strng{authornamehash}{54b36b0ed25caeea5e8b992739f0b6a9}
+      \strng{authorfullhash}{48d2541fff4ef76a5a00678a8dfe8bc9}
+      \strng{authorfullhashraw}{48d2541fff4ef76a5a00678a8dfe8bc9}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{618}
+      \field{journaltitle}{ApJ}
+      \field{langid}{english}
+      \field{media}{text}
+      \field{title}{Long-{Time} {Evolution} of {Magnetic} {Fields} in {Relativistic} {Gamma}-{Ray} {Burst} {Shocks}}
+      \field{year}{2005}
+      \field{number}{2}
+      \range{number}{1}
+      \field{pages}{L75\bibrangedash L78}
+      \range{pages}{-1}
+      \field{volume}{618}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1086/427921
+      \endverb
+      \keyw{,biblioauthor,bibliofull}
+    \endentry
+    \entry{Chatterjee2017}{article}{useauthor=false}{}
+      \name{author}{10}{}{%
+        {{hash=66f69167d0f6096499292a8871f3f14a}{%
+           family={Chatterjee},
+           familyi={C\bibinitperiod},
+           given={Gourab},
+           giveni={G\bibinitperiod}}}%
+        {{hash=1ea18115d1ad70ac03b44252f485f360}{%
+           family={Schoeffler},
+           familyi={S\bibinitperiod},
+           given={Kevin\bibnamedelima M.},
+           giveni={K\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=92a9f3590c755d895c446d44037f830e}{%
+           family={Singh},
+           familyi={S\bibinitperiod},
+           given={Prashant\bibnamedelima Kumar},
+           giveni={P\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=b7ff3393d37d0164139dda71abd5ec46}{%
+           family={Adak},
+           familyi={A\bibinitperiod},
+           given={Amitava},
+           giveni={A\bibinitperiod}}}%
+        {{hash=5749d70d9537555bcaa02048cf1f0a1e}{%
+           family={Lad},
+           familyi={L\bibinitperiod},
+           given={Amit\bibnamedelima D.},
+           giveni={A\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=0073255cc271a290ce68a61803f48dd8}{%
+           family={Sengupta},
+           familyi={S\bibinitperiod},
+           given={Sudip},
+           giveni={S\bibinitperiod}}}%
+        {{hash=e6d247d1f059d9712734534d7b5eb418}{%
+           family={Kaw},
+           familyi={K\bibinitperiod},
+           given={Predhiman},
+           giveni={P\bibinitperiod}}}%
+        {{hash=224462c76df4f9a12e71b896cef6c952}{%
+           family={Silva},
+           familyi={S\bibinitperiod},
+           given={Luis\bibnamedelima O.},
+           giveni={L\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
+        {{hash=8a1eb89f0b82c6d6cbb86f09b9279387}{%
+           family={Das},
+           familyi={D\bibinitperiod},
+           given={Amita},
+           giveni={A\bibinitperiod}}}%
+        {{hash=491cf7edc5923c4e181cd0d1956c3552}{%
+           family={Kumar},
+           familyi={K\bibinitperiod},
+           given={G.\bibnamedelimi Ravindra},
+           giveni={G\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{466d91494d4a286b33ce7f606c16b2b1}
+      \strng{authornamehash}{466d91494d4a286b33ce7f606c16b2b1}
+      \strng{authorfullhash}{b96f6664ab55fbc6b0890783df38658b}
+      \strng{authorfullhashraw}{b96f6664ab55fbc6b0890783df38658b}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{8}
+      \field{journaltitle}{Nat. Commun.}
+      \field{langid}{english}
+      \field{media}{text}
+      \field{title}{Magnetic turbulence in a table-top laser-plasma relevant to astrophysical scenarios}
+      \field{year}{2017}
+      \field{number}{1}
+      \range{number}{1}
+      \field{pages}{15970}
+      \range{pages}{1}
+      \field{volume}{8}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1038/ncomms15970
+      \endverb
+      \keyw{,biblioauthor,bibliofull}
+    \endentry
+    \entry{Vagin2014}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=d3ca4a20579a9753b4f55fc9f1f375c0}{%
+           family={Vagin},
+           familyi={V\bibinitperiod},
+           given={K.\bibnamedelimi Yu.},
+           giveni={K\bibinitperiod\bibinitdelim Y\bibinitperiod}}}%
+        {{hash=bab4524f7f564b25ed3d05e01a78aacc}{%
+           family={Uryupin},
+           familyi={U\bibinitperiod},
+           given={S.\bibnamedelimi A.},
+           giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Pleiades Publishing Ltd}%
+      }
+      \strng{namehash}{ba75b9dc55d3f9f3245b65143e1a4554}
+      \strng{fullhash}{ba75b9dc55d3f9f3245b65143e1a4554}
+      \strng{fullhashraw}{ba75b9dc55d3f9f3245b65143e1a4554}
+      \strng{bibnamehash}{ba75b9dc55d3f9f3245b65143e1a4554}
+      \strng{authorbibnamehash}{ba75b9dc55d3f9f3245b65143e1a4554}
+      \strng{authornamehash}{ba75b9dc55d3f9f3245b65143e1a4554}
+      \strng{authorfullhash}{ba75b9dc55d3f9f3245b65143e1a4554}
+      \strng{authorfullhashraw}{ba75b9dc55d3f9f3245b65143e1a4554}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{40}
+      \field{journaltitle}{Plasma Phys. Rep.}
+      \field{langid}{english}
+      \field{media}{text}
+      \field{title}{On the growth rate of aperiodic instability in plasma with an anisotropic bi-{Maxwellian} electron velocity distribution}
+      \field{year}{2014}
+      \field{number}{5}
+      \range{number}{1}
+      \field{pages}{393\bibrangedash 403}
+      \range{pages}{11}
+      \field{volume}{40}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1134/s1063780x14040096
+      \endverb
+      \keyw{,biblioauthor,bibliofull}
+    \endentry
+    \entry{Pokhotelov2011}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=313b6f3522547e45e27a871440b0f1ff}{%
+           family={Pokhotelov},
+           familyi={P\bibinitperiod},
+           given={O.\bibnamedelimi A.},
+           giveni={O\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=e6963d16007fc06bf12c35994b15f5d6}{%
+           family={Amariutei},
+           familyi={A\bibinitperiod},
+           given={O.\bibnamedelimi A.},
+           giveni={O\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Copernicus {GmbH}}%
+      }
+      \strng{namehash}{f827834e7e750b02a5052050860e03ac}
+      \strng{fullhash}{f827834e7e750b02a5052050860e03ac}
+      \strng{fullhashraw}{f827834e7e750b02a5052050860e03ac}
+      \strng{bibnamehash}{f827834e7e750b02a5052050860e03ac}
+      \strng{authorbibnamehash}{f827834e7e750b02a5052050860e03ac}
+      \strng{authornamehash}{f827834e7e750b02a5052050860e03ac}
+      \strng{authorfullhash}{f827834e7e750b02a5052050860e03ac}
+      \strng{authorfullhashraw}{f827834e7e750b02a5052050860e03ac}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{29}
+      \field{journaltitle}{Annales Geophysicae}
+      \field{langid}{english}
+      \field{media}{text}
+      \field{title}{Quasi-linear dynamics of {Weibel} instability}
+      \field{year}{2011}
+      \field{number}{11}
+      \range{number}{1}
+      \field{pages}{1997\bibrangedash 2001}
+      \range{pages}{5}
+      \field{volume}{29}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.5194/angeo-29-1997-2011
+      \endverb
+      \keyw{,biblioauthor,bibliofull}
+    \endentry
+    \entry{Davidson1972}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=6339c73ea3416abb0201769a1b3dab54}{%
+           family={Davidson},
+           familyi={D\bibinitperiod},
+           given={Ronald\bibnamedelima C.},
+           giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \strng{namehash}{6339c73ea3416abb0201769a1b3dab54}
+      \strng{fullhash}{6339c73ea3416abb0201769a1b3dab54}
+      \strng{fullhashraw}{6339c73ea3416abb0201769a1b3dab54}
+      \strng{bibnamehash}{6339c73ea3416abb0201769a1b3dab54}
+      \strng{authorbibnamehash}{6339c73ea3416abb0201769a1b3dab54}
+      \strng{authornamehash}{6339c73ea3416abb0201769a1b3dab54}
+      \strng{authorfullhash}{6339c73ea3416abb0201769a1b3dab54}
+      \strng{authorfullhashraw}{6339c73ea3416abb0201769a1b3dab54}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{15}
+      \field{journaltitle}{Phys. Fluids}
+      \field{langid}{english}
+      \field{media}{text}
+      \field{title}{Nonlinear Development of Electromagnetic Instabilities in Anisotropic Plasmas}
+      \field{year}{1972}
+      \field{number}{2}
+      \range{number}{1}
+      \field{pages}{317}
+      \range{pages}{1}
+      \field{volume}{15}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1063/1.1693910
+      \endverb
+      \keyw{,biblioauthor,bibliofull}
+    \endentry
+    \entry{Garasev2017_Radiophys}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=b2caced62526e805166f2e53fed1c815}{%
+           family={Гарасев},
+           familyi={Г\bibinitperiod},
+           given={М.\bibnamedelimi А.},
+           giveni={М\bibinitperiod\bibinitdelim А\bibinitperiod}}}%
+        {{hash=3ba4672071c34c5301a804b53e6edf30}{%
+           family={Деришев},
+           familyi={Д\bibinitperiod},
+           given={Е.\bibnamedelimi В.},
+           giveni={Е\bibinitperiod\bibinitdelim В\bibinitperiod}}}%
+      }
+      \strng{namehash}{d446b91993ae38df6136e294470346d4}
+      \strng{fullhash}{d446b91993ae38df6136e294470346d4}
+      \strng{fullhashraw}{d446b91993ae38df6136e294470346d4}
+      \strng{bibnamehash}{d446b91993ae38df6136e294470346d4}
+      \strng{authorbibnamehash}{d446b91993ae38df6136e294470346d4}
+      \strng{authornamehash}{d446b91993ae38df6136e294470346d4}
+      \strng{authorfullhash}{d446b91993ae38df6136e294470346d4}
+      \strng{authorfullhashraw}{d446b91993ae38df6136e294470346d4}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{internalsortissue}{12}
+      \field{internalsortvolume}{60}
+      \field{journaltitle}{Изв. вузов. Радиофизика}
+      \field{langid}{russian}
+      \field{media}{text}
+      \field{title}{Нелинейные эффекты при развитии вейбелевской неустойчивости}
+      \field{year}{2017}
+      \field{issue}{12}
+      \range{issue}{1}
+      \field{pages}{1040\bibrangedash 1051}
+      \range{pages}{12}
+      \field{volume}{60}
+      \range{volume}{1}
+      \keyw{,biblioauthor,bibliofull}
+    \endentry
+    \entry{Garasev2021}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=88f06fb1194c710b3f5e9aac8c15f943}{%
+           family={Garasev},
+           familyi={G\bibinitperiod},
+           given={M.\bibnamedelimi A.},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=c7ab93aef38223e2d9ac079a83b98ed5}{%
+           family={Derishev},
+           familyi={D\bibinitperiod},
+           given={E.\bibnamedelimi V.},
+           giveni={E\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+      }
+      \strng{namehash}{ec8409b96afb8ef3519f68f28dc9bcc2}
+      \strng{fullhash}{ec8409b96afb8ef3519f68f28dc9bcc2}
+      \strng{fullhashraw}{ec8409b96afb8ef3519f68f28dc9bcc2}
+      \strng{bibnamehash}{ec8409b96afb8ef3519f68f28dc9bcc2}
+      \strng{authorbibnamehash}{ec8409b96afb8ef3519f68f28dc9bcc2}
+      \strng{authornamehash}{ec8409b96afb8ef3519f68f28dc9bcc2}
+      \strng{authorfullhash}{ec8409b96afb8ef3519f68f28dc9bcc2}
+      \strng{authorfullhashraw}{ec8409b96afb8ef3519f68f28dc9bcc2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{63}
+      \field{journaltitle}{Radiophys. Quantum El.}
+      \field{langid}{english}
+      \field{media}{text}
+      \field{title}{Numerical Simulation of Nonlinear Effects in the {W}eibel Instability}
+      \field{year}{2021}
+      \field{number}{12}
+      \range{number}{1}
+      \field{pages}{909\bibrangedash 920}
+      \range{pages}{12}
+      \field{volume}{63}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1007/s11141-021-10103-w
+      \endverb
+      \keyw{,biblioauthor,bibliofull}
+    \endentry
+    \entry{Li2000}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=49db19ed12dc7d3bc8a430e0a731c7aa}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Xing},
+           giveni={X\bibinitperiod}}}%
+        {{hash=f7c0d42f818c2e273b0198eae95bb652}{%
+           family={Habbal},
+           familyi={H\bibinitperiod},
+           given={Shadia\bibnamedelima Rifai},
+           giveni={S\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Geophysical Union (AGU)}%
+      }
+      \strng{namehash}{324ec1baabd0dc263bf04c6fd0f70a88}
+      \strng{fullhash}{324ec1baabd0dc263bf04c6fd0f70a88}
+      \strng{fullhashraw}{324ec1baabd0dc263bf04c6fd0f70a88}
+      \strng{bibnamehash}{324ec1baabd0dc263bf04c6fd0f70a88}
+      \strng{authorbibnamehash}{324ec1baabd0dc263bf04c6fd0f70a88}
+      \strng{authornamehash}{324ec1baabd0dc263bf04c6fd0f70a88}
+      \strng{authorfullhash}{324ec1baabd0dc263bf04c6fd0f70a88}
+      \strng{authorfullhashraw}{324ec1baabd0dc263bf04c6fd0f70a88}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{105}
+      \field{journaltitle}{Journal of Geophysical Research: Space Physics}
+      \field{media}{text}
+      \field{month}{12}
+      \field{title}{Electron kinetic firehose instability}
+      \field{year}{2000}
+      \field{number}{A12}
+      \range{number}{-1}
+      \field{pages}{27377\bibrangedash 27385}
+      \range{pages}{9}
+      \field{volume}{105}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1029/2000ja000063
+      \endverb
+      \verb{urlraw}
+      \verb http://dx.doi.org/10.1029/2000JA000063
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1029/2000JA000063
+      \endverb
+      \keyw{,biblioauthor,bibliofull}
+    \endentry
+    \entry{Emelyanov2023_Radiophys}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=a50d19bfafce6d9f30fd2f79987185a5}{%
+           family={{Emelyanov}},
+           familyi={E\bibinitperiod},
+           given={N.\bibnamedelimi A.},
+           giveni={N\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=876dd82dc41ddc5198ddc63012aa7f53}{%
+           family={{Kocharovsky}},
+           familyi={K\bibinitperiod},
+           given={Vl.\bibnamedelimi V.},
+           giveni={V\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+      }
+      \strng{namehash}{f40a238c6f888c8cf7cdafeb6f12a9a5}
+      \strng{fullhash}{f40a238c6f888c8cf7cdafeb6f12a9a5}
+      \strng{fullhashraw}{f40a238c6f888c8cf7cdafeb6f12a9a5}
+      \strng{bibnamehash}{f40a238c6f888c8cf7cdafeb6f12a9a5}
+      \strng{authorbibnamehash}{f40a238c6f888c8cf7cdafeb6f12a9a5}
+      \strng{authornamehash}{f40a238c6f888c8cf7cdafeb6f12a9a5}
+      \strng{authorfullhash}{f40a238c6f888c8cf7cdafeb6f12a9a5}
+      \strng{authorfullhashraw}{f40a238c6f888c8cf7cdafeb6f12a9a5}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{66}
+      \field{journaltitle}{Radiophysics and Quantum Electronics}
+      \field{media}{text}
+      \field{month}{2}
+      \field{title}{{Weibel Instability in the Presence of an External Magnetic Field: Analytical Results}}
+      \field{year}{2024}
+      \field{number}{9}
+      \range{number}{1}
+      \field{pages}{664\bibrangedash 678}
+      \range{pages}{15}
+      \field{volume}{66}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1007/s11141-024-10326-7
+      \endverb
+      \keyw{,biblioauthor,bibliofull}
+    \endentry
+    \entry{Moya2022}{article}{useauthor=false}{}
+      \name{author}{5}{}{%
+        {{hash=41b8bd8c84a090fe157df51411d6d5e3}{%
+           family={Moya},
+           familyi={M\bibinitperiod},
+           given={Pablo\bibnamedelima S.},
+           giveni={P\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=d128c8eb8dec73a59145c66b41ef75b1}{%
+           family={López},
+           familyi={L\bibinitperiod},
+           given={Rodrigo\bibnamedelima A.},
+           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=6cc6fd75c3c53186ce8035f4572a2dfd}{%
+           family={Lazar},
+           familyi={L\bibinitperiod},
+           given={Marian},
+           giveni={M\bibinitperiod}}}%
+        {{hash=f2f65d73340235e4b41465fa2576cdfd}{%
+           family={Poedts},
+           familyi={P\bibinitperiod},
+           given={Stefaan},
+           giveni={S\bibinitperiod}}}%
+        {{hash=da7994800f62c6cfc831952b18931481}{%
+           family={Shaaban},
+           familyi={S\bibinitperiod},
+           given={Shaaban\bibnamedelima M.},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Astronomical Society}%
+      }
+      \strng{authorbibnamehash}{e15f22212d8ebd118d2f10b655577176}
+      \strng{authornamehash}{e15f22212d8ebd118d2f10b655577176}
+      \strng{authorfullhash}{d389b73e72651dad0fdffec6ea4b4a36}
+      \strng{authorfullhashraw}{d389b73e72651dad0fdffec6ea4b4a36}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{937}
+      \field{journaltitle}{The Astrophysical Journal}
+      \field{media}{text}
+      \field{month}{9}
+      \field{title}{Comparing the Counter-beaming and Temperature Anisotropy Driven Aperiodic Electron Firehose Instabilities in Collisionless Plasma Environments}
+      \field{year}{2022}
+      \field{number}{2}
+      \range{number}{1}
+      \field{pages}{49}
+      \range{pages}{1}
+      \field{volume}{937}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.3847/1538-4357/ac8cf8
+      \endverb
+      \verb{urlraw}
+      \verb http://dx.doi.org/10.3847/1538-4357/ac8cf8
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.3847/1538-4357/ac8cf8
+      \endverb
+      \keyw{,biblioauthor,bibliofull}
+    \endentry
+    \entry{Camporeale2008}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=d4e09148aa0b240a64593ac7abdfea3c}{%
+           family={Camporeale},
+           familyi={C\bibinitperiod},
+           given={Enrico},
+           giveni={E\bibinitperiod}}}%
+        {{hash=887a8921b7e28ae41fe4f62e54661d28}{%
+           family={Burgess},
+           familyi={B\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Geophysical Union (AGU)}%
+      }
+      \strng{namehash}{03fe7d276e60ad9c4fe30985bb7f4b12}
+      \strng{fullhash}{03fe7d276e60ad9c4fe30985bb7f4b12}
+      \strng{fullhashraw}{03fe7d276e60ad9c4fe30985bb7f4b12}
+      \strng{bibnamehash}{03fe7d276e60ad9c4fe30985bb7f4b12}
+      \strng{authorbibnamehash}{03fe7d276e60ad9c4fe30985bb7f4b12}
+      \strng{authornamehash}{03fe7d276e60ad9c4fe30985bb7f4b12}
+      \strng{authorfullhash}{03fe7d276e60ad9c4fe30985bb7f4b12}
+      \strng{authorfullhashraw}{03fe7d276e60ad9c4fe30985bb7f4b12}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{113}
+      \field{journaltitle}{Journal of Geophysical Research: Space Physics}
+      \field{media}{text}
+      \field{month}{7}
+      \field{title}{Electron firehose instability: Kinetic linear theory and two‐dimensional particle‐in‐cell simulations}
+      \field{year}{2008}
+      \field{number}{A7}
+      \range{number}{-1}
+      \field{volume}{113}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1029/2008ja013043
+      \endverb
+      \verb{urlraw}
+      \verb http://dx.doi.org/10.1029/2008JA013043
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1029/2008JA013043
+      \endverb
+      \keyw{,biblioauthor,bibliofull}
+    \endentry
+    \entry{Hellinger2014}{article}{useauthor=false}{}
+      \name{author}{4}{}{%
+        {{hash=5aff565ed95ea188cc05714e005fb1a4}{%
+           family={Hellinger},
+           familyi={H\bibinitperiod},
+           given={Petr},
+           giveni={P\bibinitperiod}}}%
+        {{hash=73444d5f368b204bcc0cbf18e90be1af}{%
+           family={Trávníček},
+           familyi={T\bibinitperiod},
+           given={Pavel\bibnamedelima M.},
+           giveni={P\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=2ac7daf515ed73b1040c6d264e6c5dc1}{%
+           family={Decyk},
+           familyi={D\bibinitperiod},
+           given={Victor\bibnamedelima K.},
+           giveni={V\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=6b856c6024e7dad3ed32dd59431f5b17}{%
+           family={Schriver},
+           familyi={S\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Geophysical Union (AGU)}%
+      }
+      \strng{authorbibnamehash}{a4a9a8d88904034eb9f2815688d81e75}
+      \strng{authornamehash}{a4a9a8d88904034eb9f2815688d81e75}
+      \strng{authorfullhash}{e4cd7bc4d31f8c486e3c32f7c95fd06b}
+      \strng{authorfullhashraw}{e4cd7bc4d31f8c486e3c32f7c95fd06b}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{119}
+      \field{journaltitle}{Journal of Geophysical Research: Space Physics}
+      \field{media}{text}
+      \field{month}{1}
+      \field{title}{Oblique electron fire hose instability: Particle‐in‐cell simulations}
+      \field{year}{2014}
+      \field{number}{1}
+      \range{number}{1}
+      \field{pages}{59\bibrangedash 68}
+      \range{pages}{10}
+      \field{volume}{119}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1002/2013ja019227
+      \endverb
+      \verb{urlraw}
+      \verb http://dx.doi.org/10.1002/2013JA019227
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1002/2013JA019227
+      \endverb
+      \keyw{,biblioauthor,bibliofull}
+    \endentry
+    \entry{Vedenov1962}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=766ecb953defc31bc8f08131e7e73d5f}{%
+           family={Веденов},
+           familyi={В\bibinitperiod},
+           given={А.\bibnamedelimi А.},
+           giveni={А\bibinitperiod\bibinitdelim А\bibinitperiod}}}%
+      }
+      \strng{namehash}{766ecb953defc31bc8f08131e7e73d5f}
+      \strng{fullhash}{766ecb953defc31bc8f08131e7e73d5f}
+      \strng{fullhashraw}{766ecb953defc31bc8f08131e7e73d5f}
+      \strng{bibnamehash}{766ecb953defc31bc8f08131e7e73d5f}
+      \strng{authorbibnamehash}{766ecb953defc31bc8f08131e7e73d5f}
+      \strng{authornamehash}{766ecb953defc31bc8f08131e7e73d5f}
+      \strng{authorfullhash}{766ecb953defc31bc8f08131e7e73d5f}
+      \strng{authorfullhashraw}{766ecb953defc31bc8f08131e7e73d5f}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{13}
+      \field{journaltitle}{Атомиздат}
+      \field{langid}{russian}
+      \field{media}{text}
+      \field{title}{Квазилинейная теория плазмы}
+      \field{year}{1962}
+      \field{number}{1}
+      \range{number}{1}
+      \field{pages}{5\bibrangedash 24}
+      \range{pages}{20}
+      \field{volume}{13}
+      \range{volume}{1}
+      \keyw{,biblioauthor,bibliofull}
+    \endentry
+    \entry{Nechaev2023}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=ef24da5588e37f18fd46b6b3fa9c1559}{%
+           family={Nechaev},
+           familyi={N\bibinitperiod},
+           given={A.\bibnamedelimi A.},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=aaefe808ab39bd9062af8744d08ef61c}{%
+           family={Kuznetsov},
+           familyi={K\bibinitperiod},
+           given={A.\bibnamedelimi A.},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=876dd82dc41ddc5198ddc63012aa7f53}{%
+           family={Kocharovsky},
+           familyi={K\bibinitperiod},
+           given={Vl.\bibnamedelimi V.},
+           giveni={V\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+      }
+      \strng{namehash}{4878ff49a5aba15dc9dddc20e801001b}
+      \strng{fullhash}{4878ff49a5aba15dc9dddc20e801001b}
+      \strng{fullhashraw}{4878ff49a5aba15dc9dddc20e801001b}
+      \strng{bibnamehash}{4878ff49a5aba15dc9dddc20e801001b}
+      \strng{authorbibnamehash}{4878ff49a5aba15dc9dddc20e801001b}
+      \strng{authornamehash}{4878ff49a5aba15dc9dddc20e801001b}
+      \strng{authorfullhash}{4878ff49a5aba15dc9dddc20e801001b}
+      \strng{authorfullhashraw}{4878ff49a5aba15dc9dddc20e801001b}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{J. Plasma Physics}
+      \field{langid}{english}
+      \field{media}{text}
+      \field{note}{Submitted}
+      \field{title}{К аналитическому описанию нелинейной стадии вейбелевской неустойчивости в бесстолкновительной анизотропной плазме}
+      \field{year}{2023}
+      \keyw{,biblioauthor,bibliofull}
+    \endentry
+    \entry{Birdsall2018}{book}{}{}
+      \name{author}{2}{}{%
+        {{hash=8aa1dea23b4b2089d61dc152c287c98e}{%
+           family={Birdsall},
+           familyi={B\bibinitperiod},
+           given={C.\bibnamedelimi K.},
+           giveni={C\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=07c470b529caa8beb1b88683dfe88654}{%
+           family={Langdon},
+           familyi={L\bibinitperiod},
+           given={A.\bibnamedelimi B.},
+           giveni={A\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {{CRC} Press}%
+      }
+      \strng{namehash}{7c76304143b521d6c63eedc804e83a03}
+      \strng{fullhash}{7c76304143b521d6c63eedc804e83a03}
+      \strng{fullhashraw}{7c76304143b521d6c63eedc804e83a03}
+      \strng{bibnamehash}{7c76304143b521d6c63eedc804e83a03}
+      \strng{authorbibnamehash}{7c76304143b521d6c63eedc804e83a03}
+      \strng{authornamehash}{7c76304143b521d6c63eedc804e83a03}
+      \strng{authorfullhash}{7c76304143b521d6c63eedc804e83a03}
+      \strng{authorfullhashraw}{7c76304143b521d6c63eedc804e83a03}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{media}{text}
+      \field{pagetotal}{504}
+      \field{title}{Plasma Physics via Computer Simulation}
+      \field{year}{2018}
+      \verb{doi}
+      \verb 10.1201/9781315275048
+      \endverb
+      \keyw{,biblioauthor,bibliofull}
+    \endentry
+    \entry{Nechaev2019_Radiophys}{article}{useauthor=false}{}
+      \name{author}{4}{}{%
+        {{hash=b2f20e2506ca04da6a7573c285c8378d}{%
+           family={Нечаев},
+           familyi={Н\bibinitperiod},
+           given={А.\bibnamedelimi А.},
+           giveni={А\bibinitperiod\bibinitdelim А\bibinitperiod}}}%
+        {{hash=17b7e34ca99001f99fb834451c629c5f}{%
+           family={Гарасёв},
+           familyi={Г\bibinitperiod},
+           given={М.\bibnamedelimi А.},
+           giveni={М\bibinitperiod\bibinitdelim А\bibinitperiod}}}%
+        {{hash=0197f70ee3ee477fe40d979ae312d7db}{%
+           family={Кочаровский},
+           familyi={К\bibinitperiod},
+           given={В.\bibnamedelimi В.},
+           giveni={В\bibinitperiod\bibinitdelim В\bibinitperiod}}}%
+        {{hash=919d6aebe91dad5a5e7c000b0b9e56eb}{%
+           family={Кочаровский},
+           familyi={К\bibinitperiod},
+           given={Вл.\bibnamedelimi В.},
+           giveni={В\bibinitperiod\bibinitdelim В\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{b3ecc5f206ce3616544ce8323b098c36}
+      \strng{authornamehash}{b3ecc5f206ce3616544ce8323b098c36}
+      \strng{authorfullhash}{c7cfc660293474f648d2fe42f399955a}
+      \strng{authorfullhashraw}{c7cfc660293474f648d2fe42f399955a}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labeltitlesource}{title}
+      \field{internalsortissue}{12}
+      \field{internalsortvolume}{62}
+      \field{journaltitle}{Изв. вузов. Радиофизика}
+      \field{langid}{russian}
+      \field{media}{text}
+      \field{title}{Вейбелевский механизм генерации магнитного поля при расширении сгустка бесстолкновительной плазмы с горячими электронами}
+      \field{year}{2019}
+      \field{issue}{12}
+      \range{issue}{1}
+      \field{pages}{932\bibrangedash 952}
+      \range{pages}{21}
+      \field{volume}{62}
+      \range{volume}{1}
+      \keyw{,biblioauthor,bibliofull}
+    \endentry
+    \entry{Marsch2006}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=d32ede34bf167339833a7bbd64188e42}{%
+           family={Marsch},
+           familyi={M\bibinitperiod},
+           given={Eckart},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{d32ede34bf167339833a7bbd64188e42}
+      \strng{fullhash}{d32ede34bf167339833a7bbd64188e42}
+      \strng{fullhashraw}{d32ede34bf167339833a7bbd64188e42}
+      \strng{bibnamehash}{d32ede34bf167339833a7bbd64188e42}
+      \strng{authorbibnamehash}{d32ede34bf167339833a7bbd64188e42}
+      \strng{authornamehash}{d32ede34bf167339833a7bbd64188e42}
+      \strng{authorfullhash}{d32ede34bf167339833a7bbd64188e42}
+      \strng{authorfullhashraw}{d32ede34bf167339833a7bbd64188e42}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{3}
+      \field{journaltitle}{Living Rev. Sol. Phys.}
+      \field{langid}{english}
+      \field{media}{text}
+      \field{title}{Kinetic Physics of the Solar Corona and Solar Wind}
+      \field{year}{2006}
+      \field{pages}{1}
+      \range{pages}{1}
+      \field{volume}{3}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.12942/lrsp-2006-1
+      \endverb
+      \keyw{,biblioauthor,bibliofull}
+    \endentry
+    \entry{Krall1973}{book}{}{}
+      \name{author}{2}{}{%
+        {{hash=949b85bc4d35e33e3495558185f1c65d}{%
+           family={Krall},
+           familyi={K\bibinitperiod},
+           given={Nicholas\bibnamedelima A.},
+           giveni={N\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=69a16da1f80705596b74428b08d140cd}{%
+           family={Trivelpiece},
+           familyi={T\bibinitperiod},
+           given={Alvin\bibnamedelima W.},
+           giveni={A\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {McGraw-Hill}%
+      }
+      \strng{namehash}{db96db08a01a0b1ddd9bcddbcdd14e97}
+      \strng{fullhash}{db96db08a01a0b1ddd9bcddbcdd14e97}
+      \strng{fullhashraw}{db96db08a01a0b1ddd9bcddbcdd14e97}
+      \strng{bibnamehash}{db96db08a01a0b1ddd9bcddbcdd14e97}
+      \strng{authorbibnamehash}{db96db08a01a0b1ddd9bcddbcdd14e97}
+      \strng{authornamehash}{db96db08a01a0b1ddd9bcddbcdd14e97}
+      \strng{authorfullhash}{db96db08a01a0b1ddd9bcddbcdd14e97}
+      \strng{authorfullhashraw}{db96db08a01a0b1ddd9bcddbcdd14e97}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9780070353466}
+      \field{langid}{english}
+      \field{media}{text}
+      \field{pagetotal}{674}
+      \field{title}{Principles of Plasma Physics}
+      \field{year}{1973}
+      \keyw{,biblioauthor,bibliofull}
+    \endentry
+    \entry{Dieckmann2009}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=5966b3c072f78133578a2d6f89fb9084}{%
+           family={Dieckmann},
+           familyi={D\bibinitperiod},
+           given={M\bibnamedelima E},
+           giveni={M\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {{IOP} Publishing}%
+      }
+      \strng{namehash}{5966b3c072f78133578a2d6f89fb9084}
+      \strng{fullhash}{5966b3c072f78133578a2d6f89fb9084}
+      \strng{fullhashraw}{5966b3c072f78133578a2d6f89fb9084}
+      \strng{bibnamehash}{5966b3c072f78133578a2d6f89fb9084}
+      \strng{authorbibnamehash}{5966b3c072f78133578a2d6f89fb9084}
+      \strng{authornamehash}{5966b3c072f78133578a2d6f89fb9084}
+      \strng{authorfullhash}{5966b3c072f78133578a2d6f89fb9084}
+      \strng{authorfullhashraw}{5966b3c072f78133578a2d6f89fb9084}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{51}
+      \field{journaltitle}{Plasma Phys. Control. Fusion}
+      \field{langid}{english}
+      \field{media}{text}
+      \field{title}{The filamentation instability driven by warm electron beams: statistics and electric field generation}
+      \field{year}{2009}
+      \field{number}{12}
+      \range{number}{1}
+      \field{pages}{124042}
+      \range{pages}{1}
+      \field{volume}{51}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1088/0741-3335/51/12/124042
+      \endverb
+      \keyw{,biblioauthor,bibliofull}
+    \endentry
+    \entry{Lazar2023}{article}{useauthor=false}{}
+      \name{author}{5}{}{%
+        {{hash=e71c7fb2f6cf02a46e1c5bb453f6ff58}{%
+           family={Lazar},
+           familyi={L\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=80a5021abd8b650bd504ec9822d81ac6}{%
+           family={López},
+           familyi={L\bibinitperiod},
+           given={R.\bibnamedelimi A.},
+           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=81c2a93c79c8705dccde7ca78b4a35b9}{%
+           family={Moya},
+           familyi={M\bibinitperiod},
+           given={P.\bibnamedelimi S.},
+           giveni={P\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=e93d234d1a97fd4c6d962b5978a14843}{%
+           family={Poedts},
+           familyi={P\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=49bb315f12d4095e199776935ff642fa}{%
+           family={Shaaban},
+           familyi={S\bibinitperiod},
+           given={S.\bibnamedelimi M.},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {EDP Sciences}%
+      }
+      \strng{authorbibnamehash}{2d357ac75afdde561b420beec5295889}
+      \strng{authornamehash}{2d357ac75afdde561b420beec5295889}
+      \strng{authorfullhash}{5907758596f667eac288e5c63e249627}
+      \strng{authorfullhashraw}{5907758596f667eac288e5c63e249627}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{670}
+      \field{journaltitle}{Astronomy &amp; Astrophysics}
+      \field{media}{text}
+      \field{month}{2}
+      \field{title}{The aperiodic firehose instability of counter-beaming electrons in space plasmas}
+      \field{year}{2023}
+      \field{pages}{A85}
+      \range{pages}{-1}
+      \field{volume}{670}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1051/0004-6361/202245163
+      \endverb
+      \verb{urlraw}
+      \verb http://dx.doi.org/10.1051/0004-6361/202245163
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1051/0004-6361/202245163
+      \endverb
+      \keyw{,biblioauthor,bibliofull}
+    \endentry
+    \entry{Lemons1979}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=0761c545b64c1b4df73847eec935a8f4}{%
+           family={Lemons},
+           familyi={L\bibinitperiod},
+           given={Don\bibnamedelima S.},
+           giveni={D\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=0b1003f2d1991c11c9e5fe1b99151682}{%
+           family={Winske},
+           familyi={W\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=71c1bfa74cf76d433ebf22596bcccea2}{%
+           family={Gary},
+           familyi={G\bibinitperiod},
+           given={S.\bibnamedelimi Peter},
+           giveni={S\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \strng{namehash}{4b136ba690e16a48c91ec6eed51cc702}
+      \strng{fullhash}{4b136ba690e16a48c91ec6eed51cc702}
+      \strng{fullhashraw}{4b136ba690e16a48c91ec6eed51cc702}
+      \strng{bibnamehash}{4b136ba690e16a48c91ec6eed51cc702}
+      \strng{authorbibnamehash}{4b136ba690e16a48c91ec6eed51cc702}
+      \strng{authornamehash}{4b136ba690e16a48c91ec6eed51cc702}
+      \strng{authorfullhash}{4b136ba690e16a48c91ec6eed51cc702}
+      \strng{authorfullhashraw}{4b136ba690e16a48c91ec6eed51cc702}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{21}
+      \field{journaltitle}{J. Plasma Phys.}
+      \field{langid}{english}
+      \field{media}{text}
+      \field{title}{Nonlinear theory of the Weibel instability}
+      \field{year}{1979}
+      \field{number}{2}
+      \range{number}{1}
+      \field{pages}{287\bibrangedash 300}
+      \range{pages}{14}
+      \field{volume}{21}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1017/S0022377800021851
+      \endverb
+      \keyw{,biblioauthor,bibliofull}
+    \endentry
+    \entry{Kuznetsov2023}{article}{useauthor=false}{}
+      \name{author}{4}{}{%
+        {{hash=aaefe808ab39bd9062af8744d08ef61c}{%
+           family={Kuznetsov},
+           familyi={K\bibinitperiod},
+           given={A.\bibnamedelimi A.},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=ef24da5588e37f18fd46b6b3fa9c1559}{%
+           family={Nechaev},
+           familyi={N\bibinitperiod},
+           given={A.\bibnamedelimi A.},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=88f06fb1194c710b3f5e9aac8c15f943}{%
+           family={Garasev},
+           familyi={G\bibinitperiod},
+           given={M.\bibnamedelimi A.},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=876dd82dc41ddc5198ddc63012aa7f53}{%
+           family={Kocharovsky},
+           familyi={K\bibinitperiod},
+           given={Vl.\bibnamedelimi V.},
+           giveni={V\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Pleiades Publishing Ltd}%
+      }
+      \strng{authorbibnamehash}{6c368d9417918364cf489bbfda87e4f2}
+      \strng{authornamehash}{6c368d9417918364cf489bbfda87e4f2}
+      \strng{authorfullhash}{cbc2488260720cbc3a8ee3fd053ba4b7}
+      \strng{authorfullhashraw}{cbc2488260720cbc3a8ee3fd053ba4b7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{137}
+      \field{journaltitle}{Journal of Experimental and Theoretical Physics}
+      \field{media}{text}
+      \field{month}{12}
+      \field{title}{Quasilinear Simulation of the Development of Weibel Turbulence in Anisotropic Collisionless Plasma}
+      \field{year}{2023}
+      \field{number}{6}
+      \range{number}{1}
+      \field{pages}{966\bibrangedash 985}
+      \range{pages}{20}
+      \field{volume}{137}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1134/s1063776123120099
+      \endverb
+      \verb{urlraw}
+      \verb http://dx.doi.org/10.1134/S1063776123120099
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1134/S1063776123120099
+      \endverb
+      \keyw{,biblioauthor,bibliofull}
+    \endentry
+    \entry{Lopez2020}{article}{useauthor=false}{}
+      \name{author}{5}{}{%
+        {{hash=d128c8eb8dec73a59145c66b41ef75b1}{%
+           family={López},
+           familyi={L\bibinitperiod},
+           given={Rodrigo\bibnamedelima A.},
+           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=6cc6fd75c3c53186ce8035f4572a2dfd}{%
+           family={Lazar},
+           familyi={L\bibinitperiod},
+           given={Marian},
+           giveni={M\bibinitperiod}}}%
+        {{hash=18f55300002958fd80bbb05f87b821df}{%
+           family={Shaaban},
+           familyi={S\bibinitperiod},
+           given={Shaaban\bibnamedelima Mohammed},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=f2f65d73340235e4b41465fa2576cdfd}{%
+           family={Poedts},
+           familyi={P\bibinitperiod},
+           given={Stefaan},
+           giveni={S\bibinitperiod}}}%
+        {{hash=dcc5a5828ba27ce97853556408c6e08d}{%
+           family={Moya},
+           familyi={M\bibinitperiod},
+           given={Pablo\bibnamedelima Sebastian},
+           giveni={P\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IOP Publishing}%
+      }
+      \strng{authorbibnamehash}{d7aead33c667c8bf603e40618fd56b20}
+      \strng{authornamehash}{d7aead33c667c8bf603e40618fd56b20}
+      \strng{authorfullhash}{cf88ef92d6a3b819c0c852b9baabf33f}
+      \strng{authorfullhashraw}{cf88ef92d6a3b819c0c852b9baabf33f}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Plasma Physics and Controlled Fusion}
+      \field{media}{text}
+      \field{month}{4}
+      \field{title}{A firehose-like aperiodic instability of the counter-beaming electron plasmas}
+      \field{year}{2020}
+      \verb{doi}
+      \verb 10.1088/1361-6587/ab8bb5
+      \endverb
+      \verb{urlraw}
+      \verb http://dx.doi.org/10.1088/1361-6587/ab8bb5
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1088/1361-6587/ab8bb5
+      \endverb
+      \keyw{,biblioauthor,bibliofull}
+    \endentry
+    \entry{Arber2015}{article}{useauthor=false}{}
+      \name{author}{11}{}{%
+        {{hash=5d59bc87f9df037ad01a8771d21cae6a}{%
+           family={Arber},
+           familyi={A\bibinitperiod},
+           given={T\bibnamedelima D},
+           giveni={T\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=4ad15ddff138dc47ae0c1da17ece3b06}{%
+           family={Bennett},
+           familyi={B\bibinitperiod},
+           given={K},
+           giveni={K\bibinitperiod}}}%
+        {{hash=42c32fbc0243408def6d2666c28cbad8}{%
+           family={Brady},
+           familyi={B\bibinitperiod},
+           given={C\bibnamedelima S},
+           giveni={C\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=98bdb1353088e11f88af563dfff611a2}{%
+           family={Lawrence-Douglas},
+           familyi={L\bibinithyphendelim D\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+        {{hash=89ef41c2176ebe1b9a2deb66e38e315c}{%
+           family={Ramsay},
+           familyi={R\bibinitperiod},
+           given={M\bibnamedelima G},
+           giveni={M\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=53f7bf5963c6aead4aafcbb7fc2d5ec4}{%
+           family={Sircombe},
+           familyi={S\bibinitperiod},
+           given={N\bibnamedelima J},
+           giveni={N\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=1c2a2bd19b6dced6dccbfd86308b7aad}{%
+           family={Gillies},
+           familyi={G\bibinitperiod},
+           given={P},
+           giveni={P\bibinitperiod}}}%
+        {{hash=9dac33abab4ddc1f11cb1468cbe40d91}{%
+           family={Evans},
+           familyi={E\bibinitperiod},
+           given={R\bibnamedelima G},
+           giveni={R\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=157625c94d6f8c7ca6052d4e84e40200}{%
+           family={Schmitz},
+           familyi={S\bibinitperiod},
+           given={H},
+           giveni={H\bibinitperiod}}}%
+        {{hash=7c54b8956af1b23c45ec779bf37ab3d7}{%
+           family={Bell},
+           familyi={B\bibinitperiod},
+           given={A\bibnamedelima R},
+           giveni={A\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=a5a3b47e15da60b22b3f12a1a09db3c5}{%
+           family={Ridgers},
+           familyi={R\bibinitperiod},
+           given={C\bibnamedelima P},
+           giveni={C\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {{IOP} Publishing}%
+      }
+      \strng{authorbibnamehash}{2a947cd35556f4810f60cf140133d1fb}
+      \strng{authornamehash}{2a947cd35556f4810f60cf140133d1fb}
+      \strng{authorfullhash}{2961b237423c30eab7f6d81aaa5a3cf1}
+      \strng{authorfullhashraw}{2961b237423c30eab7f6d81aaa5a3cf1}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{57}
+      \field{journaltitle}{Plasma Phys. Control. Fusion}
+      \field{langid}{english}
+      \field{media}{text}
+      \field{title}{Contemporary particle-in-cell approach to laser-plasma modelling}
+      \field{year}{2015}
+      \field{number}{11}
+      \range{number}{1}
+      \field{pages}{113001}
+      \range{pages}{1}
+      \field{volume}{57}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1088/0741-3335/57/11/113001
+      \endverb
+      \keyw{,biblioauthor,bibliofull}
+    \endentry
+    \entry{Medvedev2017}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=58a5d44f10f06a9b405d1e7f5db87491}{%
+           family={Medvedev},
+           familyi={M\bibinitperiod},
+           given={Mikhail\bibnamedelima V.},
+           giveni={M\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {arXiv}%
+      }
+      \strng{namehash}{58a5d44f10f06a9b405d1e7f5db87491}
+      \strng{fullhash}{58a5d44f10f06a9b405d1e7f5db87491}
+      \strng{fullhashraw}{58a5d44f10f06a9b405d1e7f5db87491}
+      \strng{bibnamehash}{58a5d44f10f06a9b405d1e7f5db87491}
+      \strng{authorbibnamehash}{58a5d44f10f06a9b405d1e7f5db87491}
+      \strng{authornamehash}{58a5d44f10f06a9b405d1e7f5db87491}
+      \strng{authorfullhash}{58a5d44f10f06a9b405d1e7f5db87491}
+      \strng{authorfullhashraw}{58a5d44f10f06a9b405d1e7f5db87491}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{media}{text}
+      \field{title}{Quasi-nonlinear approach to the Weibel instability}
+      \field{year}{2017}
+      \verb{doi}
+      \verb 10.48550/ARXIV.1705.03169
+      \endverb
+      \verb{urlraw}
+      \verb https://arxiv.org/abs/1705.03169
+      \endverb
+      \verb{url}
+      \verb https://arxiv.org/abs/1705.03169
+      \endverb
+      \keyw{,biblioauthor,bibliofull}
+    \endentry
+    \entry{Bhatnagar1954}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=dabe2abacddfcc979f920e53952c4f29}{%
+           family={Bhatnagar},
+           familyi={B\bibinitperiod},
+           given={P.\bibnamedelimi L.},
+           giveni={P\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=3b3e14b2342c180473592fc0ee2e94b6}{%
+           family={Gross},
+           familyi={G\bibinitperiod},
+           given={E.\bibnamedelimi P.},
+           giveni={E\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=8a0122d828617bfb2f2ca4d6e5d2b986}{%
+           family={Krook},
+           familyi={K\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Physical Society (APS)}%
+      }
+      \strng{namehash}{a2cfa4ca7242ab31dc43c2ff739cc3b6}
+      \strng{fullhash}{a2cfa4ca7242ab31dc43c2ff739cc3b6}
+      \strng{fullhashraw}{a2cfa4ca7242ab31dc43c2ff739cc3b6}
+      \strng{bibnamehash}{a2cfa4ca7242ab31dc43c2ff739cc3b6}
+      \strng{authorbibnamehash}{a2cfa4ca7242ab31dc43c2ff739cc3b6}
+      \strng{authornamehash}{a2cfa4ca7242ab31dc43c2ff739cc3b6}
+      \strng{authorfullhash}{a2cfa4ca7242ab31dc43c2ff739cc3b6}
+      \strng{authorfullhashraw}{a2cfa4ca7242ab31dc43c2ff739cc3b6}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{94}
+      \field{journaltitle}{Physical Review}
+      \field{media}{text}
+      \field{month}{5}
+      \field{title}{A Model for Collision Processes in Gases. I. Small Amplitude Processes in Charged and Neutral One-Component Systems}
+      \field{year}{1954}
+      \field{number}{3}
+      \range{number}{1}
+      \field{pages}{511\bibrangedash 525}
+      \range{pages}{15}
+      \field{volume}{94}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1103/physrev.94.511
+      \endverb
+      \verb{urlraw}
+      \verb http://dx.doi.org/10.1103/PhysRev.94.511
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1103/PhysRev.94.511
+      \endverb
+      \keyw{,biblioauthor,bibliofull}
+    \endentry
+    \entry{Vasyliunas1968}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=f54f5c9ad83e70092a82b2d4f032caa8}{%
+           family={Vasyliunas},
+           familyi={V\bibinitperiod},
+           given={Vytenis\bibnamedelima M.},
+           giveni={V\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{f54f5c9ad83e70092a82b2d4f032caa8}
+      \strng{fullhash}{f54f5c9ad83e70092a82b2d4f032caa8}
+      \strng{fullhashraw}{f54f5c9ad83e70092a82b2d4f032caa8}
+      \strng{bibnamehash}{f54f5c9ad83e70092a82b2d4f032caa8}
+      \strng{authorbibnamehash}{f54f5c9ad83e70092a82b2d4f032caa8}
+      \strng{authornamehash}{f54f5c9ad83e70092a82b2d4f032caa8}
+      \strng{authorfullhash}{f54f5c9ad83e70092a82b2d4f032caa8}
+      \strng{authorfullhashraw}{f54f5c9ad83e70092a82b2d4f032caa8}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{73}
+      \field{journaltitle}{J. Geophys. Res.}
+      \field{langid}{english}
+      \field{media}{text}
+      \field{title}{A survey of low-energy electrons in the evening sector of the magnetosphere with {OGO 1} and {OGO 3}}
+      \field{year}{1968}
+      \field{number}{9}
+      \range{number}{1}
+      \field{pages}{2839\bibrangedash 2884}
+      \range{pages}{46}
+      \field{volume}{73}
+      \range{volume}{1}
+      \verb{doi}
+      \verb https://doi.org/10.1029/JA073i009p02839
+      \endverb
+      \keyw{,biblioauthor,bibliofull}
+    \endentry
+    \entry{Lazar2010}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=e71c7fb2f6cf02a46e1c5bb453f6ff58}{%
+           family={Lazar},
+           familyi={L\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=251c4eba6f365597cbe851cc357b631e}{%
+           family={Schlickeiser},
+           familyi={S\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=e93d234d1a97fd4c6d962b5978a14843}{%
+           family={Poedts},
+           familyi={P\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {{AIP} Publishing}%
+      }
+      \strng{namehash}{7961af2dfa79c65c9799f545080c4e84}
+      \strng{fullhash}{7961af2dfa79c65c9799f545080c4e84}
+      \strng{fullhashraw}{7961af2dfa79c65c9799f545080c4e84}
+      \strng{bibnamehash}{7961af2dfa79c65c9799f545080c4e84}
+      \strng{authorbibnamehash}{7961af2dfa79c65c9799f545080c4e84}
+      \strng{authornamehash}{7961af2dfa79c65c9799f545080c4e84}
+      \strng{authorfullhash}{7961af2dfa79c65c9799f545080c4e84}
+      \strng{authorfullhashraw}{7961af2dfa79c65c9799f545080c4e84}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{17}
+      \field{journaltitle}{Phys. Plasmas}
+      \field{langid}{english}
+      \field{media}{text}
+      \field{title}{Is the {Weibel} instability enhanced by the suprathermal populations or not?}
+      \field{year}{2010}
+      \field{number}{6}
+      \range{number}{1}
+      \field{pages}{062112}
+      \range{pages}{1}
+      \field{volume}{17}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1063/1.3446827
+      \endverb
+      \keyw{,biblioauthor,bibliofull}
+    \endentry
+    \entry{Livadiotis2017}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=4db4209fff1507e9d004510406dd14df}{%
+           family={Livadiotis},
+           familyi={L\bibinitperiod},
+           given={George},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{4db4209fff1507e9d004510406dd14df}
+      \strng{fullhash}{4db4209fff1507e9d004510406dd14df}
+      \strng{fullhashraw}{4db4209fff1507e9d004510406dd14df}
+      \strng{bibnamehash}{4db4209fff1507e9d004510406dd14df}
+      \strng{authorbibnamehash}{4db4209fff1507e9d004510406dd14df}
+      \strng{authornamehash}{4db4209fff1507e9d004510406dd14df}
+      \strng{authorfullhash}{4db4209fff1507e9d004510406dd14df}
+      \strng{authorfullhashraw}{4db4209fff1507e9d004510406dd14df}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-0-12-804638-8}
+      \field{langid}{english}
+      \field{media}{text}
+      \field{pagetotal}{738}
+      \field{title}{Kappa Distributions: Theory and Applications in Plasmas}
+      \field{year}{2017}
+      \keyw{,biblioauthor,bibliofull}
+    \endentry
+    \entry{Livadiotis2021}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=34a0bbb212d309e22054f321c63b1f0f}{%
+           family={Livadiotis},
+           familyi={L\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod}}}%
+        {{hash=b8acbdb8c41f2ec67b8316dd2ed5f59c}{%
+           family={Nicolaou},
+           familyi={N\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod}}}%
+        {{hash=a0c8cb017cbf67dd93dd6050d56fcb66}{%
+           family={Allegrini},
+           familyi={A\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Astronomical Society}%
+      }
+      \strng{namehash}{3f66f39139db52b5f69b402833c2f3cf}
+      \strng{fullhash}{3f66f39139db52b5f69b402833c2f3cf}
+      \strng{fullhashraw}{3f66f39139db52b5f69b402833c2f3cf}
+      \strng{bibnamehash}{3f66f39139db52b5f69b402833c2f3cf}
+      \strng{authorbibnamehash}{3f66f39139db52b5f69b402833c2f3cf}
+      \strng{authornamehash}{3f66f39139db52b5f69b402833c2f3cf}
+      \strng{authorfullhash}{3f66f39139db52b5f69b402833c2f3cf}
+      \strng{authorfullhashraw}{3f66f39139db52b5f69b402833c2f3cf}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{253}
+      \field{journaltitle}{ApJS}
+      \field{langid}{english}
+      \field{media}{text}
+      \field{title}{Anisotropic {Kappa} Distributions. {I}. Formulation Based on Particle Correlations}
+      \field{year}{2021}
+      \field{number}{1}
+      \range{number}{1}
+      \field{pages}{16}
+      \range{pages}{1}
+      \field{volume}{253}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.3847/1538-4365/abd4ed
+      \endverb
+      \keyw{,biblioauthor,bibliofull}
+    \endentry
+    \entry{Pierrard2010}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=81e6b5da15355e91de74a422618efc59}{%
+           family={Pierrard},
+           familyi={P\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod}}}%
+        {{hash=e71c7fb2f6cf02a46e1c5bb453f6ff58}{%
+           family={Lazar},
+           familyi={L\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Springer Science}%
+        {Business Media {LLC}}%
+      }
+      \strng{namehash}{7a33b24cafdb3318b6fe040a751d9130}
+      \strng{fullhash}{7a33b24cafdb3318b6fe040a751d9130}
+      \strng{fullhashraw}{7a33b24cafdb3318b6fe040a751d9130}
+      \strng{bibnamehash}{7a33b24cafdb3318b6fe040a751d9130}
+      \strng{authorbibnamehash}{7a33b24cafdb3318b6fe040a751d9130}
+      \strng{authornamehash}{7a33b24cafdb3318b6fe040a751d9130}
+      \strng{authorfullhash}{7a33b24cafdb3318b6fe040a751d9130}
+      \strng{authorfullhashraw}{7a33b24cafdb3318b6fe040a751d9130}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{267}
+      \field{journaltitle}{Sol. Phys.}
+      \field{langid}{english}
+      \field{media}{text}
+      \field{title}{Kappa Distributions: Theory and Applications in Space Plasmas}
+      \field{year}{2010}
+      \field{number}{1}
+      \range{number}{1}
+      \field{pages}{153\bibrangedash 174}
+      \range{pages}{22}
+      \field{volume}{267}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1007/s11207-010-9640-2
+      \endverb
+      \keyw{,biblioauthor,bibliofull}
+    \endentry
+    \entry{Garasev2022_JPP}{article}{useauthor=false}{}
+      \name{author}{5}{}{%
+        {{hash=88f06fb1194c710b3f5e9aac8c15f943}{%
+           family={Garasev},
+           familyi={G\bibinitperiod},
+           given={M.\bibnamedelimi A.},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=ef24da5588e37f18fd46b6b3fa9c1559}{%
+           family={Nechaev},
+           familyi={N\bibinitperiod},
+           given={A.\bibnamedelimi A.},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=ed3c5d3c6d4c829c0283169b094142ef}{%
+           family={Stepanov},
+           familyi={S\bibinitperiod},
+           given={A.\bibnamedelimi N.},
+           giveni={A\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=aa7996e3abb7a86c1f34e516bfc00248}{%
+           family={Kocharovsky},
+           familyi={K\bibinitperiod},
+           given={V.\bibnamedelimi V.},
+           giveni={V\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+        {{hash=876dd82dc41ddc5198ddc63012aa7f53}{%
+           family={Kocharovsky},
+           familyi={K\bibinitperiod},
+           given={Vl.\bibnamedelimi V.},
+           giveni={V\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{8b6df2dd81376fc77c495973de8a59eb}
+      \strng{authornamehash}{8b6df2dd81376fc77c495973de8a59eb}
+      \strng{authorfullhash}{77abba2706277615f19ea5d1269e736c}
+      \strng{authorfullhashraw}{77abba2706277615f19ea5d1269e736c}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labeltitlesource}{title}
+      \field{internalsortissue}{3}
+      \field{internalsortvolume}{88}
+      \field{journaltitle}{J. Plasma Phys.}
+      \field{langid}{english}
+      \field{media}{text}
+      \field{title}{Multiscale magnetic field structures in an expanding elongated plasma cloud with hot electrons subject to an external magnetic field}
+      \field{year}{2022}
+      \field{issue}{3}
+      \range{issue}{1}
+      \field{pages}{175880301}
+      \range{pages}{1}
+      \field{volume}{88}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1017/S0022377822000423
+      \endverb
+      \keyw{,biblioauthor,bibliofull}
+    \endentry
+    \entry{Stockem2010}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=6486616c170530aa941120d1fad14a38}{%
+           family={Stockem},
+           familyi={S\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+        {{hash=5966b3c072f78133578a2d6f89fb9084}{%
+           family={Dieckmann},
+           familyi={D\bibinitperiod},
+           given={M\bibnamedelima E},
+           giveni={M\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=251c4eba6f365597cbe851cc357b631e}{%
+           family={Schlickeiser},
+           familyi={S\bibinitperiod},
+           given={R},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {{IOP} Publishing}%
+      }
+      \strng{namehash}{ce88d23f5bdfb4589afe12f2e3b4b899}
+      \strng{fullhash}{ce88d23f5bdfb4589afe12f2e3b4b899}
+      \strng{fullhashraw}{ce88d23f5bdfb4589afe12f2e3b4b899}
+      \strng{bibnamehash}{ce88d23f5bdfb4589afe12f2e3b4b899}
+      \strng{authorbibnamehash}{ce88d23f5bdfb4589afe12f2e3b4b899}
+      \strng{authornamehash}{ce88d23f5bdfb4589afe12f2e3b4b899}
+      \strng{authorfullhash}{ce88d23f5bdfb4589afe12f2e3b4b899}
+      \strng{authorfullhashraw}{ce88d23f5bdfb4589afe12f2e3b4b899}
+      \field{extraname}{2}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{52}
+      \field{journaltitle}{Plasma Phys. Control. Fusion}
+      \field{langid}{english}
+      \field{media}{text}
+      \field{title}{{PIC} simulations of the temperature anisotropy-driven Weibel instability: analysing the perpendicular mode}
+      \field{year}{2010}
+      \field{number}{8}
+      \range{number}{1}
+      \field{pages}{085009}
+      \range{pages}{1}
+      \field{volume}{52}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1088/0741-3335/52/8/085009
+      \endverb
+      \keyw{,biblioauthor,bibliofull}
+    \endentry
+    \entry{Seough2015}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=5bc35cc353ab539722dcfcc1f7a0c7fd}{%
+           family={Seough},
+           familyi={S\bibinitperiod},
+           given={Jungjoon},
+           giveni={J\bibinitperiod}}}%
+        {{hash=71c36ec3f4671e0832c2e1c8f1c72161}{%
+           family={Yoon},
+           familyi={Y\bibinitperiod},
+           given={Peter\bibnamedelima H.},
+           giveni={P\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=9b44e8ca54021c2a796fb46a35ef49b5}{%
+           family={Hwang},
+           familyi={H\bibinitperiod},
+           given={Junga},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {{AIP} Publishing}%
+      }
+      \strng{namehash}{450435c1994b4be0c782c60479eed26f}
+      \strng{fullhash}{450435c1994b4be0c782c60479eed26f}
+      \strng{fullhashraw}{450435c1994b4be0c782c60479eed26f}
+      \strng{bibnamehash}{450435c1994b4be0c782c60479eed26f}
+      \strng{authorbibnamehash}{450435c1994b4be0c782c60479eed26f}
+      \strng{authornamehash}{450435c1994b4be0c782c60479eed26f}
+      \strng{authorfullhash}{450435c1994b4be0c782c60479eed26f}
+      \strng{authorfullhashraw}{450435c1994b4be0c782c60479eed26f}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{22}
+      \field{journaltitle}{Phys. Plasmas}
+      \field{langid}{english}
+      \field{media}{text}
+      \field{title}{Simulation and quasilinear theory of proton firehose instability}
+      \field{year}{2015}
+      \field{number}{1}
+      \range{number}{1}
+      \field{pages}{012303}
+      \range{pages}{1}
+      \field{volume}{22}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1063/1.4905230
+      \endverb
+      \keyw{,biblioauthor,bibliofull}
+    \endentry
+    \entry{YOON2011}{article}{useauthor=false}{}
+      \name{author}{4}{}{%
+        {{hash=75369554f7dc6d42c34100c84f79f3b6}{%
+           family={Yoon},
+           familyi={Y\bibinitperiod},
+           given={PETER\bibnamedelima H.},
+           giveni={P\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=c9b8eaa4f2211516d45b42d1bc3126db}{%
+           family={Seough},
+           familyi={S\bibinitperiod},
+           given={JUNG\bibnamedelima JOON},
+           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=81d6ebe36562fc0894d19c191b7df03a}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={KHAN\bibnamedelima HYUK},
+           giveni={K\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=2cab9cfb95185fd60272a2df167d0ed7}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={DONG\bibnamedelima HUN},
+           giveni={D\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{2734c76af410c6cf61232aed62b02bfd}
+      \strng{authornamehash}{2734c76af410c6cf61232aed62b02bfd}
+      \strng{authorfullhash}{f10ae9e8d65679283a608109f936ee75}
+      \strng{authorfullhashraw}{f10ae9e8d65679283a608109f936ee75}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{78}
+      \field{journaltitle}{J. Plasma Phys.}
+      \field{langid}{english}
+      \field{media}{text}
+      \field{title}{Empirical versus exact numerical quasilinear analysis of electromagnetic instabilities driven by temperature anisotropy}
+      \field{year}{2011}
+      \field{number}{1}
+      \range{number}{1}
+      \field{pages}{47\bibrangedash 54}
+      \range{pages}{8}
+      \field{volume}{78}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1017/s0022377811000407
+      \endverb
+      \keyw{,biblioauthor,bibliofull}
+    \endentry
+    \entry{Silva2021}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=137997af779c95b9913ac158b721bbf4}{%
+           family={Silva},
+           familyi={S\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+        {{hash=f8001ab4a3b48c73fb9d0e065440e802}{%
+           family={Afeyan},
+           familyi={A\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod}}}%
+        {{hash=68ee5adfbcd42c88d6ce1be0755e7318}{%
+           family={Silva},
+           familyi={S\bibinitperiod},
+           given={L.\bibnamedelimi O.},
+           giveni={L\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
+      }
+      \strng{namehash}{febb3930a43bf9295ef4b3300ad184bc}
+      \strng{fullhash}{febb3930a43bf9295ef4b3300ad184bc}
+      \strng{fullhashraw}{febb3930a43bf9295ef4b3300ad184bc}
+      \strng{bibnamehash}{febb3930a43bf9295ef4b3300ad184bc}
+      \strng{authorbibnamehash}{febb3930a43bf9295ef4b3300ad184bc}
+      \strng{authornamehash}{febb3930a43bf9295ef4b3300ad184bc}
+      \strng{authorfullhash}{febb3930a43bf9295ef4b3300ad184bc}
+      \strng{authorfullhashraw}{febb3930a43bf9295ef4b3300ad184bc}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{104}
+      \field{journaltitle}{Phys. Rev. E}
+      \field{langid}{english}
+      \field{media}{text}
+      \field{title}{Weibel instability beyond bi-{M}axwellian anisotropy}
+      \field{year}{2021}
+      \field{number}{3}
+      \range{number}{1}
+      \field{pages}{035201}
+      \range{pages}{1}
+      \field{volume}{104}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1103/physreve.104.035201
+      \endverb
+      \keyw{,biblioauthor,bibliofull}
+    \endentry
+    \entry{Rubab2016}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=41bd30e139a27793a1a22fc6258d32e2}{%
+           family={Rubab},
+           familyi={R\bibinitperiod},
+           given={Nazish},
+           giveni={N\bibinitperiod}}}%
+        {{hash=1d161aee88b9548774de827761c50251}{%
+           family={Chian},
+           familyi={C\bibinitperiod},
+           given={Abraham\bibnamedelima C.-L.},
+           giveni={A\bibinitperiod\bibinitdelim C\bibinithyphendelim L\bibinitperiod}}}%
+        {{hash=c373d5fe681b07d75b239dcc1df2313d}{%
+           family={Jatenco-Pereira},
+           familyi={J\bibinithyphendelim P\bibinitperiod},
+           given={Vera},
+           giveni={V\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Geophysical Union ({AGU})}%
+      }
+      \strng{namehash}{c21ffca0dee328f823adf5fc2cb8a825}
+      \strng{fullhash}{c21ffca0dee328f823adf5fc2cb8a825}
+      \strng{fullhashraw}{c21ffca0dee328f823adf5fc2cb8a825}
+      \strng{bibnamehash}{c21ffca0dee328f823adf5fc2cb8a825}
+      \strng{authorbibnamehash}{c21ffca0dee328f823adf5fc2cb8a825}
+      \strng{authornamehash}{c21ffca0dee328f823adf5fc2cb8a825}
+      \strng{authorfullhash}{c21ffca0dee328f823adf5fc2cb8a825}
+      \strng{authorfullhashraw}{c21ffca0dee328f823adf5fc2cb8a825}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{121}
+      \field{journaltitle}{J. Geophys. Res.: Space Physics}
+      \field{langid}{english}
+      \field{media}{text}
+      \field{title}{On the ordinary mode {Weibel} instability in space plasmas: {A} comparison of three-particle distributions}
+      \field{year}{2016}
+      \field{number}{3}
+      \range{number}{1}
+      \field{pages}{1874\bibrangedash 1885}
+      \range{pages}{12}
+      \field{volume}{121}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1002/2015ja022206
+      \endverb
+      \keyw{,biblioauthor,bibliofull}
+    \endentry
+    \entry{Zaheer2007}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=15a9463efb371c645faf4bdf81f6b1a1}{%
+           family={Zaheer},
+           familyi={Z\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=8840763689d6840440787529aad83bb4}{%
+           family={Murtaza},
+           familyi={M\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {{AIP} Publishing}%
+      }
+      \strng{namehash}{6fa88a2713f31d39faba0dfa58188d8f}
+      \strng{fullhash}{6fa88a2713f31d39faba0dfa58188d8f}
+      \strng{fullhashraw}{6fa88a2713f31d39faba0dfa58188d8f}
+      \strng{bibnamehash}{6fa88a2713f31d39faba0dfa58188d8f}
+      \strng{authorbibnamehash}{6fa88a2713f31d39faba0dfa58188d8f}
+      \strng{authornamehash}{6fa88a2713f31d39faba0dfa58188d8f}
+      \strng{authorfullhash}{6fa88a2713f31d39faba0dfa58188d8f}
+      \strng{authorfullhashraw}{6fa88a2713f31d39faba0dfa58188d8f}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{14}
+      \field{journaltitle}{Phys. Plasmas}
+      \field{langid}{english}
+      \field{media}{text}
+      \field{title}{Weibel instability with non-{Maxwellian} distribution functions}
+      \field{year}{2007}
+      \field{number}{2}
+      \range{number}{1}
+      \field{pages}{022108}
+      \range{pages}{1}
+      \field{volume}{14}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1063/1.2536159
+      \endverb
+      \keyw{,biblioauthor,bibliofull}
+    \endentry
+    \entry{Thaury2010}{article}{useauthor=false}{}
+      \name{author}{5}{}{%
+        {{hash=39b6116132c0f38ca657e51efbf96b60}{%
+           family={Thaury},
+           familyi={T\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+        {{hash=c646dbeaa7711b13a9b67d0dc93b55ff}{%
+           family={Mora},
+           familyi={M\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=33c787edb13aae8cf624e037342901e8}{%
+           family={Héron},
+           familyi={H\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=a680338955056a47d8a1a900abd93fea}{%
+           family={Adam},
+           familyi={A\bibinitperiod},
+           given={J.\bibnamedelimi C.},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=d1584b4c00885184aee902b945267808}{%
+           family={Antonsen},
+           familyi={A\bibinitperiod},
+           given={T.\bibnamedelimi M.},
+           giveni={T\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{60ff505fb4f09b2c4ded358a913e3277}
+      \strng{authornamehash}{60ff505fb4f09b2c4ded358a913e3277}
+      \strng{authorfullhash}{60e9940773f912549a4d86c4e0b52d90}
+      \strng{authorfullhashraw}{60e9940773f912549a4d86c4e0b52d90}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{82}
+      \field{journaltitle}{Phys. Rev. E}
+      \field{langid}{english}
+      \field{media}{text}
+      \field{title}{Influence of the {W}eibel instability on the expansion of a plasma slab into a vacuum}
+      \field{year}{2010}
+      \field{number}{2}
+      \range{number}{1}
+      \field{pages}{026408}
+      \range{pages}{1}
+      \field{volume}{82}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1103/physreve.82.026408
+      \endverb
+      \keyw{,biblioauthor,bibliofull}
+    \endentry
+    \entry{Silva2020}{article}{useauthor=false}{}
+      \name{author}{6}{}{%
+        {{hash=137997af779c95b9913ac158b721bbf4}{%
+           family={Silva},
+           familyi={S\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+        {{hash=15cfaa8398c2465b2d67955c279617ee}{%
+           family={Schoeffler},
+           familyi={S\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+        {{hash=2b7841dff0eefba4bab254c803a444bd}{%
+           family={Vieira},
+           familyi={V\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=2587a8a5abb98c461210844a4e83a2ca}{%
+           family={Hoshino},
+           familyi={H\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=edabf2d4aa4d1dcd2d6938123524a095}{%
+           family={Fonseca},
+           familyi={F\bibinitperiod},
+           given={R.\bibnamedelimi A.},
+           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=68ee5adfbcd42c88d6ce1be0755e7318}{%
+           family={Silva},
+           familyi={S\bibinitperiod},
+           given={L.\bibnamedelimi O.},
+           giveni={L\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{bc129fa0dc67501245a671532d2492a9}
+      \strng{authornamehash}{bc129fa0dc67501245a671532d2492a9}
+      \strng{authorfullhash}{f43c8c2b328f43bd629e6f255e01b4f8}
+      \strng{authorfullhashraw}{f43c8c2b328f43bd629e6f255e01b4f8}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{2}
+      \field{journaltitle}{Phys. Rev. Research}
+      \field{langid}{english}
+      \field{media}{text}
+      \field{title}{Anisotropic heating and magnetic field generation due to Raman scattering in laser-plasma interactions}
+      \field{year}{2020}
+      \field{number}{2}
+      \range{number}{1}
+      \field{pages}{023080}
+      \range{pages}{1}
+      \field{volume}{2}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1103/physrevresearch.2.023080
+      \endverb
+      \keyw{,biblioauthor,bibliofull}
+    \endentry
+    \entry{Shukla2020}{article}{useauthor=false}{}
+      \name{author}{6}{}{%
+        {{hash=a0eba8b85f92da94c72c2a1168dc9a7f}{%
+           family={Shukla},
+           familyi={S\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod}}}%
+        {{hash=15cfaa8398c2465b2d67955c279617ee}{%
+           family={Schoeffler},
+           familyi={S\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+        {{hash=bc81779c0d0427eef5a3fe9087a53cff}{%
+           family={Boella},
+           familyi={B\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+        {{hash=2b7841dff0eefba4bab254c803a444bd}{%
+           family={Vieira},
+           familyi={V\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=017e9afc5894252aa67649ed7d3e642c}{%
+           family={Fonseca},
+           familyi={F\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=68ee5adfbcd42c88d6ce1be0755e7318}{%
+           family={Silva},
+           familyi={S\bibinitperiod},
+           given={L.\bibnamedelimi O.},
+           giveni={L\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Physical Society ({APS})}%
+      }
+      \strng{authorbibnamehash}{7560ced202f8474e183a98a94e0a5fd4}
+      \strng{authornamehash}{7560ced202f8474e183a98a94e0a5fd4}
+      \strng{authorfullhash}{c714283f9df0117110d37ff6fbc086f9}
+      \strng{authorfullhashraw}{c714283f9df0117110d37ff6fbc086f9}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{2}
+      \field{journaltitle}{Phys. Rev. Research}
+      \field{langid}{english}
+      \field{media}{text}
+      \field{title}{Interplay between the Weibel instability and the Biermann battery in realistic laser-solid interactions}
+      \field{year}{2020}
+      \field{number}{2}
+      \range{number}{1}
+      \field{pages}{023129}
+      \range{pages}{1}
+      \field{volume}{2}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1103/physrevresearch.2.023129
+      \endverb
+      \keyw{,biblioauthor,bibliofull}
+    \endentry
+    \entry{Zhang2020}{article}{useauthor=false}{}
+      \name{author}{14}{}{%
+        {{hash=db622aacb7c5349c62f3b8318b2d03eb}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Chaojie},
+           giveni={C\bibinitperiod}}}%
+        {{hash=f875b099aa92c026f8836e09d9080187}{%
+           family={Hua},
+           familyi={H\bibinitperiod},
+           given={Jianfei},
+           giveni={J\bibinitperiod}}}%
+        {{hash=ed7804b3b84ff1665f596a8c1d40297b}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Yipeng},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=9ed9fbfdeadb351deafa89c4b737051f}{%
+           family={Fang},
+           familyi={F\bibinitperiod},
+           given={Yu},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=fb8bee3c4fa68f86fad2c1c6daa46faf}{%
+           family={Ma},
+           familyi={M\bibinitperiod},
+           given={Yue},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=81334682352e5bfb0b60327c27b70280}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Tianliang},
+           giveni={T\bibinitperiod}}}%
+        {{hash=81e242b8fcbdf3579bd5ff6c9182df80}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Shuang},
+           giveni={S\bibinitperiod}}}%
+        {{hash=883ca506b36387ef49f12b3a0d8dbacf}{%
+           family={Peng},
+           familyi={P\bibinitperiod},
+           given={Bo},
+           giveni={B\bibinitperiod}}}%
+        {{hash=1af6f0bc04273408a16a6e2846d67a78}{%
+           family={He},
+           familyi={H\bibinitperiod},
+           given={Yunxiao},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=a380cb843e29576ef3387cafc4e788ad}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={Chen-Kang},
+           giveni={C\bibinithyphendelim K\bibinitperiod}}}%
+        {{hash=b55174826b8a260adc7ae8c0611150ed}{%
+           family={Marsh},
+           familyi={M\bibinitperiod},
+           given={Ken\bibnamedelima A.},
+           giveni={K\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=9aa9e55782750b5bc992ea6e1a9573ba}{%
+           family={Mori},
+           familyi={M\bibinitperiod},
+           given={Warren\bibnamedelima B.},
+           giveni={W\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=cb550a145b27c55a56001120c672da49}{%
+           family={Lu},
+           familyi={L\bibinitperiod},
+           given={Wei},
+           giveni={W\bibinitperiod}}}%
+        {{hash=446dafd615fa1570f4237954bac0f56e}{%
+           family={Joshi},
+           familyi={J\bibinitperiod},
+           given={Chan},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Physical Society ({APS})}%
+      }
+      \strng{authorbibnamehash}{2ce4de77e24b20274b009fff8ef1da33}
+      \strng{authornamehash}{2ce4de77e24b20274b009fff8ef1da33}
+      \strng{authorfullhash}{8f71c3cb32b68d1e3dc926bc6ce900d9}
+      \strng{authorfullhashraw}{8f71c3cb32b68d1e3dc926bc6ce900d9}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{125}
+      \field{journaltitle}{Phys. Rev. Lett.}
+      \field{langid}{english}
+      \field{media}{text}
+      \field{title}{Measurements of the Growth and Saturation of Electron Weibel Instability in Optical-Field Ionized Plasmas}
+      \field{year}{2020}
+      \field{number}{25}
+      \range{number}{1}
+      \field{pages}{255001}
+      \range{pages}{1}
+      \field{volume}{125}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1103/physrevlett.125.255001
+      \endverb
+      \keyw{,biblioauthor,bibliofull}
+    \endentry
+    \entry{Dudik2017}{article}{useauthor=false}{}
+      \name{author}{15}{}{%
+        {{hash=8354cd0dd7d3dc98e557bfdc58d6dad9}{%
+           family={Dudík},
+           familyi={D\bibinitperiod},
+           given={Jaroslav},
+           giveni={J\bibinitperiod}}}%
+        {{hash=bec575df22f57c60ad19802406cf3f5c}{%
+           family={Dzifčáková},
+           familyi={D\bibinitperiod},
+           given={Elena},
+           giveni={E\bibinitperiod}}}%
+        {{hash=f0ace64bc29fda64763661467db0911d}{%
+           family={Meyer-Vernet},
+           familyi={M\bibinithyphendelim V\bibinitperiod},
+           given={Nicole},
+           giveni={N\bibinitperiod}}}%
+        {{hash=002dcfcd6fd9468252a749716b888303}{%
+           family={Zanna},
+           familyi={Z\bibinitperiod},
+           given={Giulio\bibnamedelima Del},
+           giveni={G\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=dc54506d3749185e7f97db87eec6aec9}{%
+           family={Young},
+           familyi={Y\bibinitperiod},
+           given={Peter\bibnamedelima R.},
+           giveni={P\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=34a87d8fb20bd05f3e0f1e217d06421c}{%
+           family={Giunta},
+           familyi={G\bibinitperiod},
+           given={Alessandra},
+           giveni={A\bibinitperiod}}}%
+        {{hash=1e12d1a8ab5cc60f408f919a8faba660}{%
+           family={Sylwester},
+           familyi={S\bibinitperiod},
+           given={Barbara},
+           giveni={B\bibinitperiod}}}%
+        {{hash=669cdbe98b3e0aabc86df7b3d68f2990}{%
+           family={Sylwester},
+           familyi={S\bibinitperiod},
+           given={Janusz},
+           giveni={J\bibinitperiod}}}%
+        {{hash=6e0193bfa692e6a59c9dd028bc5c7dc0}{%
+           family={Oka},
+           familyi={O\bibinitperiod},
+           given={Mitsuo},
+           giveni={M\bibinitperiod}}}%
+        {{hash=7e8654954ba1a7f3a919016a96497cfd}{%
+           family={Mason},
+           familyi={M\bibinitperiod},
+           given={Helen\bibnamedelima E.},
+           giveni={H\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=2bad17fe1d0914f4c1ea8e19c29f552d}{%
+           family={Vocks},
+           familyi={V\bibinitperiod},
+           given={Christian},
+           giveni={C\bibinitperiod}}}%
+        {{hash=5c23fb04f8b4bc908522a3ba585bdc8e}{%
+           family={Matteini},
+           familyi={M\bibinitperiod},
+           given={Lorenzo},
+           giveni={L\bibinitperiod}}}%
+        {{hash=d5374a7250c29df7b29e8f35aa7350b7}{%
+           family={Krucker},
+           familyi={K\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=49efbfe75fddc0974af58abf2cf1448f}{%
+           family={Williams},
+           familyi={W\bibinitperiod},
+           given={David\bibnamedelima R.},
+           giveni={D\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=79668dc3fa85c664da34f7975e88f2e9}{%
+           family={Mackovjak},
+           familyi={M\bibinitperiod},
+           given={Šimon},
+           giveni={Š\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{f3e79cef9b52ce25982adfc82d1c3998}
+      \strng{authornamehash}{f3e79cef9b52ce25982adfc82d1c3998}
+      \strng{authorfullhash}{94a94e5305f875baca24a413427a822d}
+      \strng{authorfullhashraw}{94a94e5305f875baca24a413427a822d}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{292}
+      \field{journaltitle}{Sol. Phys.}
+      \field{langid}{english}
+      \field{media}{text}
+      \field{title}{Nonequilibrium Processes in the Solar Corona, Transition Region, Flares, and Solar Wind (Invited Review)}
+      \field{year}{2017}
+      \field{number}{8}
+      \range{number}{1}
+      \field{pages}{100}
+      \range{pages}{1}
+      \field{volume}{292}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1007/s11207-017-1125-0
+      \endverb
+      \keyw{,biblioauthor,bibliofull}
+    \endentry
+    \entry{Yoon2017}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=71c36ec3f4671e0832c2e1c8f1c72161}{%
+           family={Yoon},
+           familyi={Y\bibinitperiod},
+           given={Peter\bibnamedelima H.},
+           giveni={P\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Springer Science}%
+        {Business Media {LLC}}%
+      }
+      \strng{namehash}{71c36ec3f4671e0832c2e1c8f1c72161}
+      \strng{fullhash}{71c36ec3f4671e0832c2e1c8f1c72161}
+      \strng{fullhashraw}{71c36ec3f4671e0832c2e1c8f1c72161}
+      \strng{bibnamehash}{71c36ec3f4671e0832c2e1c8f1c72161}
+      \strng{authorbibnamehash}{71c36ec3f4671e0832c2e1c8f1c72161}
+      \strng{authornamehash}{71c36ec3f4671e0832c2e1c8f1c72161}
+      \strng{authorfullhash}{71c36ec3f4671e0832c2e1c8f1c72161}
+      \strng{authorfullhashraw}{71c36ec3f4671e0832c2e1c8f1c72161}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{1}
+      \field{journaltitle}{Rev. Mod. Plasma Phys.}
+      \field{langid}{english}
+      \field{media}{text}
+      \field{title}{Kinetic instabilities in the solar wind driven by temperature anisotropies}
+      \field{year}{2017}
+      \field{number}{1}
+      \range{number}{1}
+      \field{pages}{4}
+      \range{pages}{1}
+      \field{volume}{1}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1007/s41614-017-0006-1
+      \endverb
+      \keyw{,biblioauthor,bibliofull}
+    \endentry
+    \entry{Echim2010}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=bc439fa32dd6f9a1eb3570ad6de4684d}{%
+           family={Echim},
+           familyi={E\bibinitperiod},
+           given={Marius\bibnamedelima M.},
+           giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=e74372ecfa87a1aaba4c22a7fd2bc865}{%
+           family={Lemaire},
+           familyi={L\bibinitperiod},
+           given={Joseph},
+           giveni={J\bibinitperiod}}}%
+        {{hash=ccd01a815e4af18d65f8ad0f3288d92c}{%
+           family={Lie-Svendsen},
+           familyi={L\bibinithyphendelim S\bibinitperiod},
+           given={{Ø}ystein},
+           giveni={Ø\bibinitperiod}}}%
+      }
+      \strng{namehash}{f95d9065a89daf3ca9c41f71e75705c7}
+      \strng{fullhash}{f95d9065a89daf3ca9c41f71e75705c7}
+      \strng{fullhashraw}{f95d9065a89daf3ca9c41f71e75705c7}
+      \strng{bibnamehash}{f95d9065a89daf3ca9c41f71e75705c7}
+      \strng{authorbibnamehash}{f95d9065a89daf3ca9c41f71e75705c7}
+      \strng{authornamehash}{f95d9065a89daf3ca9c41f71e75705c7}
+      \strng{authorfullhash}{f95d9065a89daf3ca9c41f71e75705c7}
+      \strng{authorfullhashraw}{f95d9065a89daf3ca9c41f71e75705c7}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{32}
+      \field{journaltitle}{Surv. Geophys.}
+      \field{langid}{english}
+      \field{media}{text}
+      \field{title}{A Review on Solar Wind Modeling: Kinetic and Fluid Aspects}
+      \field{year}{2010}
+      \field{number}{1}
+      \range{number}{1}
+      \field{pages}{1\bibrangedash 70}
+      \range{pages}{70}
+      \field{volume}{32}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1007/s10712-010-9106-y
+      \endverb
+      \keyw{,biblioauthor,bibliofull}
+    \endentry
+    \entry{Maksimovic2005}{article}{useauthor=false}{}
+      \name{author}{11}{}{%
+        {{hash=df6dfc6cb871f701919add9030e36ea8}{%
+           family={Maksimovic},
+           familyi={M\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=8424c461966fca53c0af2d03885aa9da}{%
+           family={Zouganelis},
+           familyi={Z\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod}}}%
+        {{hash=77cfc02c79ad8826e8e9cfcea6b20250}{%
+           family={Chaufray},
+           familyi={C\bibinitperiod},
+           given={J.-Y.},
+           giveni={J\bibinithyphendelim Y\bibinitperiod}}}%
+        {{hash=c3a86d953401f6f83d6af82340e00abe}{%
+           family={Issautier},
+           familyi={I\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+        {{hash=fe5539a5728f73de695812efbb7cea51}{%
+           family={Scime},
+           familyi={S\bibinitperiod},
+           given={E.\bibnamedelimi E.},
+           giveni={E\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=0c64bbab9106a98fb76d95593ae07ce7}{%
+           family={Littleton},
+           familyi={L\bibinitperiod},
+           given={J.\bibnamedelimi E.},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=cb7c2c4961cd07126351e0ed22414cbe}{%
+           family={Marsch},
+           familyi={M\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+        {{hash=32e8a7aaa789632941cdef5b78744dc0}{%
+           family={McComas},
+           familyi={M\bibinitperiod},
+           given={D.\bibnamedelimi J.},
+           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=def34d686b244c3fc547d61276b92180}{%
+           family={Salem},
+           familyi={S\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+        {{hash=9c3b31f7a98f3b2d3e4f02c3a0cc5ff8}{%
+           family={Lin},
+           familyi={L\bibinitperiod},
+           given={R.\bibnamedelimi P.},
+           giveni={R\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=17a26e72116cdc69a1e0ae368ac185f2}{%
+           family={Elliott},
+           familyi={E\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Geophysical Union ({AGU})}%
+      }
+      \strng{authorbibnamehash}{43b3ddf73679458a3e79d96bfc6664ac}
+      \strng{authornamehash}{43b3ddf73679458a3e79d96bfc6664ac}
+      \strng{authorfullhash}{2295b4d937c585f75d60b5655e7667a4}
+      \strng{authorfullhashraw}{2295b4d937c585f75d60b5655e7667a4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labeltitlesource}{title}
+      \field{internalsortissue}{A9}
+      \field{internalsortvolume}{110}
+      \field{journaltitle}{J. Geophys. Res.: Space Physics}
+      \field{langid}{english}
+      \field{media}{text}
+      \field{title}{Radial evolution of the electron distribution functions in the fast solar wind between 0.3 and 1.5 {AU}}
+      \field{year}{2005}
+      \field{issue}{A9}
+      \range{issue}{-1}
+      \field{pages}{A09104}
+      \range{pages}{-1}
+      \field{volume}{110}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1029/2005ja011119
+      \endverb
+      \keyw{,biblioauthor,bibliofull}
+    \endentry
+    \entry{Shaaban2021}{article}{useauthor=false}{}
+      \name{author}{4}{}{%
+        {{hash=49bb315f12d4095e199776935ff642fa}{%
+           family={Shaaban},
+           familyi={S\bibinitperiod},
+           given={S.\bibnamedelimi M.},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=e71c7fb2f6cf02a46e1c5bb453f6ff58}{%
+           family={Lazar},
+           familyi={L\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=8c2fc9efd6814ec80a035dd1b5cf1d6e}{%
+           family={Wimmer-Schweingruber},
+           familyi={W\bibinithyphendelim S\bibinitperiod},
+           given={R.\bibnamedelimi F.},
+           giveni={R\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=e6895b516bfca367b0530bd2c3b907c9}{%
+           family={Fichtner},
+           familyi={F\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{a87514c15fb3894d9572f9b89de3d6d4}
+      \strng{authornamehash}{a87514c15fb3894d9572f9b89de3d6d4}
+      \strng{authorfullhash}{044a0fc6cb38473558081aa060c52024}
+      \strng{authorfullhashraw}{044a0fc6cb38473558081aa060c52024}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{918}
+      \field{journaltitle}{ApJ}
+      \field{langid}{english}
+      \field{media}{text}
+      \field{title}{A New Low-beta Regime for Unstable Proton Firehose Modes in Bi-kappa-distributed Plasmas}
+      \field{year}{2021}
+      \field{number}{1}
+      \range{number}{1}
+      \field{pages}{37}
+      \range{pages}{1}
+      \field{volume}{918}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.3847/1538-4357/ac0f01
+      \endverb
+      \keyw{,biblioauthor,bibliofull}
+    \endentry
+    \entry{Shaaban2019}{article}{useauthor=false}{}
+      \name{author}{5}{}{%
+        {{hash=49bb315f12d4095e199776935ff642fa}{%
+           family={Shaaban},
+           familyi={S\bibinitperiod},
+           given={S\bibnamedelima M},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=e71c7fb2f6cf02a46e1c5bb453f6ff58}{%
+           family={Lazar},
+           familyi={L\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod}}}%
+        {{hash=80a5021abd8b650bd504ec9822d81ac6}{%
+           family={López},
+           familyi={L\bibinitperiod},
+           given={R\bibnamedelima A},
+           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=e6895b516bfca367b0530bd2c3b907c9}{%
+           family={Fichtner},
+           familyi={F\bibinitperiod},
+           given={H},
+           giveni={H\bibinitperiod}}}%
+        {{hash=e93d234d1a97fd4c6d962b5978a14843}{%
+           family={Poedts},
+           familyi={P\bibinitperiod},
+           given={S},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{a87514c15fb3894d9572f9b89de3d6d4}
+      \strng{authornamehash}{a87514c15fb3894d9572f9b89de3d6d4}
+      \strng{authorfullhash}{84143381808d668f9c57c6c9ff3024a8}
+      \strng{authorfullhashraw}{84143381808d668f9c57c6c9ff3024a8}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{483}
+      \field{journaltitle}{Mon. Not. R. Astron. Soc.}
+      \field{langid}{english}
+      \field{media}{text}
+      \field{title}{Firehose instabilities triggered by the solar wind suprathermal electrons}
+      \field{year}{2019}
+      \field{number}{4}
+      \range{number}{1}
+      \field{pages}{5642\bibrangedash 5648}
+      \range{pages}{7}
+      \field{volume}{483}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1093/mnras/sty3377
+      \endverb
+      \keyw{,biblioauthor,bibliofull}
+    \endentry
+    \entry{Dieckmann2019}{article}{useauthor=false}{}
+      \name{author}{4}{}{%
+        {{hash=5966b3c072f78133578a2d6f89fb9084}{%
+           family={Dieckmann},
+           familyi={D\bibinitperiod},
+           given={M\bibnamedelima E},
+           giveni={M\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=7db6141e64d273301a845c3aa7aeff0d}{%
+           family={Folini},
+           familyi={F\bibinitperiod},
+           given={D},
+           giveni={D\bibinitperiod}}}%
+        {{hash=6ad63be2d0acc3398bd54fb1831988d0}{%
+           family={Bret},
+           familyi={B\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+        {{hash=4a818d0bae9ce97d8bf7d30623059bb0}{%
+           family={Walder},
+           familyi={W\bibinitperiod},
+           given={R},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {{IOP} Publishing}%
+      }
+      \strng{authorbibnamehash}{0397531b117474791ad4bfa83a0e228c}
+      \strng{authornamehash}{0397531b117474791ad4bfa83a0e228c}
+      \strng{authorfullhash}{26ed997aa645d319599445ca8d239ff0}
+      \strng{authorfullhashraw}{26ed997aa645d319599445ca8d239ff0}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{61}
+      \field{journaltitle}{Plasma Phys. Control. Fusion}
+      \field{langid}{english}
+      \field{media}{text}
+      \field{title}{Simulation studies of temperature anisotropy driven pair-Alfvén and aperiodic instabilities in magnetized pair plasma}
+      \field{year}{2019}
+      \field{number}{8}
+      \range{number}{1}
+      \field{pages}{085027}
+      \range{pages}{1}
+      \field{volume}{61}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1088/1361-6587/ab2b2d
+      \endverb
+      \keyw{,biblioauthor,bibliofull}
+    \endentry
+    \entry{StockemNovo2015}{article}{useauthor=false}{}
+      \name{author}{6}{}{%
+        {{hash=80cea12e350dfcc1bafa4dfcc29a3039}{%
+           family={{Stockem Novo}},
+           familyi={S\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=e18e37f0f5d5ff2bc56f4acc1d78becc}{%
+           family={Yoon},
+           familyi={Y\bibinitperiod},
+           given={P.\bibnamedelimi H.},
+           giveni={P\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=e71c7fb2f6cf02a46e1c5bb453f6ff58}{%
+           family={Lazar},
+           familyi={L\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=251c4eba6f365597cbe851cc357b631e}{%
+           family={Schlickeiser},
+           familyi={S\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=e93d234d1a97fd4c6d962b5978a14843}{%
+           family={Poedts},
+           familyi={P\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=fb0b8a74bc722f9d442d88be927890c9}{%
+           family={Seough},
+           familyi={S\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {{AIP} Publishing}%
+      }
+      \strng{authorbibnamehash}{0a8f2ebec7d2e308eb3df014fb03988c}
+      \strng{authornamehash}{0a8f2ebec7d2e308eb3df014fb03988c}
+      \strng{authorfullhash}{2a62ed3d3f41562880da54d9b4613185}
+      \strng{authorfullhashraw}{2a62ed3d3f41562880da54d9b4613185}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{22}
+      \field{journaltitle}{Phys. Plasmas}
+      \field{langid}{english}
+      \field{media}{text}
+      \field{title}{Quasilinear saturation of the aperiodic ordinary mode streaming instability}
+      \field{year}{2015}
+      \field{number}{9}
+      \range{number}{1}
+      \field{pages}{092301}
+      \range{pages}{1}
+      \field{volume}{22}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1063/1.4929852
+      \endverb
+      \keyw{,biblioauthor,bibliofull}
+    \endentry
+  \enddatalist
+  \missing{??}
+  \missing{???}
+  \missing{Appert1976}
+  \missing{Aschwanden2005}
+  \missing{Bakunin2017}
+  \missing{Bret2004}
+  \missing{Bret2010}
+  \missing{Bychenkov2003}
+  \missing{Dum1994}
+  \missing{Fleishman2013}
+  \missing{GaleevSagdeev1969}
+  \missing{Garasev2022}
+  \missing{Hao2008}
+  \missing{Jia2013}
+  \missing{Karlick2008}
+  \missing{Kasaba2001}
+  \missing{Kato2007}
+  \missing{Kocharovsky2024}
+  \missing{Kong2009}
+  \missing{Kuznetsov2025}
+  \missing{Kuznetsov2025a}
+  \missing{Kuznetsov2025b}
+  \missing{Lotov2015}
+  \missing{Medvedev2006}
+  \missing{Nishikawa2009}
+  \missing{Shukla2018}
+  \missing{Sun2022}
+  \missing{Treumann1997}
+  \missing{Treumann2015}
+  \missing{Tzoufras2006}
+  \missing{Vedenov1963}
+  \missing{VedenovRyutov1975}
+  \missing{Yi2010}
+  \missing{Zakharov1972}
+  \missing{Ziebell2008}
+\endrefsection
 \endinput
 
