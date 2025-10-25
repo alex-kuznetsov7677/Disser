@@ -19,39 +19,6 @@
 
 \refsection{0}
   \datalist[entry]{none/global//global/global/global}
-    \entry{Mikhailovsky1971}{book}{}{}
-      \name{author}{1}{}{%
-        {{hash=109f22ee101ee8ee7002617fa2de3a3e}{%
-           family={Михайловский},
-           familyi={М\bibinitperiod},
-           given={А.\bibnamedelimi Б.},
-           giveni={А\bibinitperiod\bibinitdelim Б\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Москва}%
-      }
-      \list{publisher}{1}{%
-        {Атомиздат}%
-      }
-      \strng{namehash}{109f22ee101ee8ee7002617fa2de3a3e}
-      \strng{fullhash}{109f22ee101ee8ee7002617fa2de3a3e}
-      \strng{fullhashraw}{109f22ee101ee8ee7002617fa2de3a3e}
-      \strng{bibnamehash}{109f22ee101ee8ee7002617fa2de3a3e}
-      \strng{authorbibnamehash}{109f22ee101ee8ee7002617fa2de3a3e}
-      \strng{authornamehash}{109f22ee101ee8ee7002617fa2de3a3e}
-      \strng{authorfullhash}{109f22ee101ee8ee7002617fa2de3a3e}
-      \strng{authorfullhashraw}{109f22ee101ee8ee7002617fa2de3a3e}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{langid}{russian}
-      \field{media}{text}
-      \field{pagetotal}{276}
-      \field{title}{Теория плазменных неустойчивостей}
-      \field{year}{1971}
-      \keyw{,biblioauthor,bibliofull}
-    \endentry
     \entry{Baumjohann2012}{book}{}{}
       \name{author}{2}{}{%
         {{hash=2c010fc82ccd7c3e49d7884e52f3abb0}{%
@@ -309,53 +276,6 @@
       \endverb
       \keyw{,biblioauthor,bibliofull}
     \endentry
-    \entry{Kocharovsky2016}{article}{useauthor=false}{}
-      \name{author}{4}{}{%
-        {{hash=0197f70ee3ee477fe40d979ae312d7db}{%
-           family={Кочаровский},
-           familyi={К\bibinitperiod},
-           given={В.\bibnamedelimi В.},
-           giveni={В\bibinitperiod\bibinitdelim В\bibinitperiod}}}%
-        {{hash=0197f70ee3ee477fe40d979ae312d7db}{%
-           family={Кочаровский},
-           familyi={К\bibinitperiod},
-           given={В.\bibnamedelimi В.},
-           giveni={В\bibinitperiod\bibinitdelim В\bibinitperiod}}}%
-        {{hash=1f35101777c46ede77ceab50d154e96b}{%
-           family={Мартьянов},
-           familyi={М\bibinitperiod},
-           given={В.\bibnamedelimi Ю.},
-           giveni={В\bibinitperiod\bibinitdelim Ю\bibinitperiod}}}%
-        {{hash=c2bd9aba8b2ace5503d332236d6d15c0}{%
-           family={Тарасов},
-           familyi={Т\bibinitperiod},
-           given={С.\bibnamedelimi В.},
-           giveni={С\bibinitperiod\bibinitdelim В\bibinitperiod}}}%
-      }
-      \strng{authorbibnamehash}{cad8bd208cb743d56caeb9e634c42f32}
-      \strng{authornamehash}{cad8bd208cb743d56caeb9e634c42f32}
-      \strng{authorfullhash}{bd5a7238d0e62338300e62546d64c9bf}
-      \strng{authorfullhashraw}{bd5a7238d0e62338300e62546d64c9bf}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
-      \field{labeltitlesource}{title}
-      \field{internalsortvolume}{186}
-      \field{journaltitle}{УФН}
-      \field{langid}{russian}
-      \field{media}{text}
-      \field{title}{Аналитическая теория самосогласованных токовых структур в бесстолкновительной плазме}
-      \field{year}{2016}
-      \field{number}{12}
-      \range{number}{1}
-      \field{pages}{1267\bibrangedash 1314}
-      \range{pages}{48}
-      \field{volume}{186}
-      \range{volume}{1}
-      \verb{doi}
-      \verb 10.3367/UFNr.2016.08.037893
-      \endverb
-      \keyw{,biblioauthor,bibliofull}
-    \endentry
     \entry{Romanov2004}{article}{useauthor=false}{}
       \name{author}{5}{}{%
         {{hash=e2e8b30e078ad904e1046591efb777ae}{%
@@ -406,99 +326,6 @@
       \verb{doi}
       \verb 10.1103/physrevlett.93.215004
       \endverb
-      \keyw{,biblioauthor,bibliofull}
-    \endentry
-    \entry{Borodachev2016_Radiofiz}{article}{useauthor=false}{}
-      \name{author}{6}{}{%
-        {{hash=7e2fdcd7e61c2468d3a20732716e5c24}{%
-           family={Бородачёв},
-           familyi={Б\bibinitperiod},
-           given={Л.\bibnamedelimi В.},
-           giveni={Л\bibinitperiod\bibinitdelim В\bibinitperiod}}}%
-        {{hash=17b7e34ca99001f99fb834451c629c5f}{%
-           family={Гарасёв},
-           familyi={Г\bibinitperiod},
-           given={М.\bibnamedelimi А.},
-           giveni={М\bibinitperiod\bibinitdelim А\bibinitperiod}}}%
-        {{hash=5af2605a8328f6ee9be06bfa4db7600f}{%
-           family={Коломиец},
-           familyi={К\bibinitperiod},
-           given={Д.\bibnamedelimi О.},
-           giveni={Д\bibinitperiod\bibinitdelim О\bibinitperiod}}}%
-        {{hash=0197f70ee3ee477fe40d979ae312d7db}{%
-           family={Кочаровский},
-           familyi={К\bibinitperiod},
-           given={В.\bibnamedelimi В.},
-           giveni={В\bibinitperiod\bibinitdelim В\bibinitperiod}}}%
-        {{hash=1f35101777c46ede77ceab50d154e96b}{%
-           family={Мартьянов},
-           familyi={М\bibinitperiod},
-           given={В.\bibnamedelimi Ю.},
-           giveni={В\bibinitperiod\bibinitdelim Ю\bibinitperiod}}}%
-        {{hash=b2f20e2506ca04da6a7573c285c8378d}{%
-           family={Нечаев},
-           familyi={Н\bibinitperiod},
-           given={А.\bibnamedelimi А.},
-           giveni={А\bibinitperiod\bibinitdelim А\bibinitperiod}}}%
-      }
-      \strng{authorbibnamehash}{27368e0354676b3877871c5b1a736627}
-      \strng{authornamehash}{27368e0354676b3877871c5b1a736627}
-      \strng{authorfullhash}{f345cee0694ea8ba8e25598ddce955e0}
-      \strng{authorfullhashraw}{f345cee0694ea8ba8e25598ddce955e0}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
-      \field{labeltitlesource}{title}
-      \field{internalsortissue}{12}
-      \field{internalsortvolume}{59}
-      \field{journaltitle}{Изв. вузов. Радиофизика}
-      \field{langid}{russian}
-      \field{media}{text}
-      \field{title}{Динамика самосогласованного магнитного поля и диффузионное рассеяние ионов в плазме с сильной анизотропией температуры}
-      \field{year}{2016}
-      \field{issue}{12}
-      \range{issue}{1}
-      \field{pages}{1107\bibrangedash 1117}
-      \range{pages}{11}
-      \field{volume}{59}
-      \range{volume}{1}
-      \keyw{,biblioauthor,bibliofull}
-    \endentry
-    \entry{Krall1975}{book}{}{}
-      \name{author}{2}{}{%
-        {{hash=f5cf4e54b0349608ec6d4097e42e95b1}{%
-           family={Кролл},
-           familyi={К\bibinitperiod},
-           given={Н.},
-           giveni={Н\bibinitperiod}}}%
-        {{hash=0aac5654aaeea7115d2ea57b409331ea}{%
-           family={Трайвелпис},
-           familyi={Т\bibinitperiod},
-           given={А.},
-           giveni={А\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Москва}%
-      }
-      \list{publisher}{1}{%
-        {Мир}%
-      }
-      \strng{namehash}{c65a52e786609df8c2791ad1aa750c14}
-      \strng{fullhash}{c65a52e786609df8c2791ad1aa750c14}
-      \strng{fullhashraw}{c65a52e786609df8c2791ad1aa750c14}
-      \strng{bibnamehash}{c65a52e786609df8c2791ad1aa750c14}
-      \strng{authorbibnamehash}{c65a52e786609df8c2791ad1aa750c14}
-      \strng{authornamehash}{c65a52e786609df8c2791ad1aa750c14}
-      \strng{authorfullhash}{c65a52e786609df8c2791ad1aa750c14}
-      \strng{authorfullhashraw}{c65a52e786609df8c2791ad1aa750c14}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{langid}{russian}
-      \field{media}{text}
-      \field{pagetotal}{525}
-      \field{title}{Основы физики плазмы}
-      \field{year}{1975}
       \keyw{,biblioauthor,bibliofull}
     \endentry
     \entry{Kato2005}{article}{}{}
@@ -1311,46 +1138,6 @@
       \endverb
       \keyw{,biblioauthor,bibliofull}
     \endentry
-    \entry{Garasev2017_Radiophys}{article}{}{}
-      \name{author}{2}{}{%
-        {{hash=b2caced62526e805166f2e53fed1c815}{%
-           family={Гарасев},
-           familyi={Г\bibinitperiod},
-           given={М.\bibnamedelimi А.},
-           giveni={М\bibinitperiod\bibinitdelim А\bibinitperiod}}}%
-        {{hash=3ba4672071c34c5301a804b53e6edf30}{%
-           family={Деришев},
-           familyi={Д\bibinitperiod},
-           given={Е.\bibnamedelimi В.},
-           giveni={Е\bibinitperiod\bibinitdelim В\bibinitperiod}}}%
-      }
-      \strng{namehash}{d446b91993ae38df6136e294470346d4}
-      \strng{fullhash}{d446b91993ae38df6136e294470346d4}
-      \strng{fullhashraw}{d446b91993ae38df6136e294470346d4}
-      \strng{bibnamehash}{d446b91993ae38df6136e294470346d4}
-      \strng{authorbibnamehash}{d446b91993ae38df6136e294470346d4}
-      \strng{authornamehash}{d446b91993ae38df6136e294470346d4}
-      \strng{authorfullhash}{d446b91993ae38df6136e294470346d4}
-      \strng{authorfullhashraw}{d446b91993ae38df6136e294470346d4}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{internalsortissue}{12}
-      \field{internalsortvolume}{60}
-      \field{journaltitle}{Изв. вузов. Радиофизика}
-      \field{langid}{russian}
-      \field{media}{text}
-      \field{title}{Нелинейные эффекты при развитии вейбелевской неустойчивости}
-      \field{year}{2017}
-      \field{issue}{12}
-      \range{issue}{1}
-      \field{pages}{1040\bibrangedash 1051}
-      \range{pages}{12}
-      \field{volume}{60}
-      \range{volume}{1}
-      \keyw{,biblioauthor,bibliofull}
-    \endentry
     \entry{Garasev2021}{article}{}{}
       \name{author}{2}{}{%
         {{hash=88f06fb1194c710b3f5e9aac8c15f943}{%
@@ -1652,78 +1439,6 @@
       \endverb
       \keyw{,biblioauthor,bibliofull}
     \endentry
-    \entry{Vedenov1962}{book}{}{}
-      \name{author}{1}{}{%
-        {{hash=766ecb953defc31bc8f08131e7e73d5f}{%
-           family={Веденов},
-           familyi={В\bibinitperiod},
-           given={А.\bibnamedelimi А.},
-           giveni={А\bibinitperiod\bibinitdelim А\bibinitperiod}}}%
-      }
-      \strng{namehash}{766ecb953defc31bc8f08131e7e73d5f}
-      \strng{fullhash}{766ecb953defc31bc8f08131e7e73d5f}
-      \strng{fullhashraw}{766ecb953defc31bc8f08131e7e73d5f}
-      \strng{bibnamehash}{766ecb953defc31bc8f08131e7e73d5f}
-      \strng{authorbibnamehash}{766ecb953defc31bc8f08131e7e73d5f}
-      \strng{authornamehash}{766ecb953defc31bc8f08131e7e73d5f}
-      \strng{authorfullhash}{766ecb953defc31bc8f08131e7e73d5f}
-      \strng{authorfullhashraw}{766ecb953defc31bc8f08131e7e73d5f}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{internalsortvolume}{13}
-      \field{journaltitle}{Атомиздат}
-      \field{langid}{russian}
-      \field{media}{text}
-      \field{title}{Квазилинейная теория плазмы}
-      \field{year}{1962}
-      \field{number}{1}
-      \range{number}{1}
-      \field{pages}{5\bibrangedash 24}
-      \range{pages}{20}
-      \field{volume}{13}
-      \range{volume}{1}
-      \keyw{,biblioauthor,bibliofull}
-    \endentry
-    \entry{Nechaev2023}{article}{}{}
-      \name{author}{3}{}{%
-        {{hash=ef24da5588e37f18fd46b6b3fa9c1559}{%
-           family={Nechaev},
-           familyi={N\bibinitperiod},
-           given={A.\bibnamedelimi A.},
-           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-        {{hash=aaefe808ab39bd9062af8744d08ef61c}{%
-           family={Kuznetsov},
-           familyi={K\bibinitperiod},
-           given={A.\bibnamedelimi A.},
-           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-        {{hash=876dd82dc41ddc5198ddc63012aa7f53}{%
-           family={Kocharovsky},
-           familyi={K\bibinitperiod},
-           given={Vl.\bibnamedelimi V.},
-           giveni={V\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
-      }
-      \strng{namehash}{4878ff49a5aba15dc9dddc20e801001b}
-      \strng{fullhash}{4878ff49a5aba15dc9dddc20e801001b}
-      \strng{fullhashraw}{4878ff49a5aba15dc9dddc20e801001b}
-      \strng{bibnamehash}{4878ff49a5aba15dc9dddc20e801001b}
-      \strng{authorbibnamehash}{4878ff49a5aba15dc9dddc20e801001b}
-      \strng{authornamehash}{4878ff49a5aba15dc9dddc20e801001b}
-      \strng{authorfullhash}{4878ff49a5aba15dc9dddc20e801001b}
-      \strng{authorfullhashraw}{4878ff49a5aba15dc9dddc20e801001b}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{J. Plasma Physics}
-      \field{langid}{english}
-      \field{media}{text}
-      \field{note}{Submitted}
-      \field{title}{К аналитическому описанию нелинейной стадии вейбелевской неустойчивости в бесстолкновительной анизотропной плазме}
-      \field{year}{2023}
-      \keyw{,biblioauthor,bibliofull}
-    \endentry
     \entry{Birdsall2018}{book}{}{}
       \name{author}{2}{}{%
         {{hash=8aa1dea23b4b2089d61dc152c287c98e}{%
@@ -1760,51 +1475,6 @@
       \verb{doi}
       \verb 10.1201/9781315275048
       \endverb
-      \keyw{,biblioauthor,bibliofull}
-    \endentry
-    \entry{Nechaev2019_Radiophys}{article}{useauthor=false}{}
-      \name{author}{4}{}{%
-        {{hash=b2f20e2506ca04da6a7573c285c8378d}{%
-           family={Нечаев},
-           familyi={Н\bibinitperiod},
-           given={А.\bibnamedelimi А.},
-           giveni={А\bibinitperiod\bibinitdelim А\bibinitperiod}}}%
-        {{hash=17b7e34ca99001f99fb834451c629c5f}{%
-           family={Гарасёв},
-           familyi={Г\bibinitperiod},
-           given={М.\bibnamedelimi А.},
-           giveni={М\bibinitperiod\bibinitdelim А\bibinitperiod}}}%
-        {{hash=0197f70ee3ee477fe40d979ae312d7db}{%
-           family={Кочаровский},
-           familyi={К\bibinitperiod},
-           given={В.\bibnamedelimi В.},
-           giveni={В\bibinitperiod\bibinitdelim В\bibinitperiod}}}%
-        {{hash=919d6aebe91dad5a5e7c000b0b9e56eb}{%
-           family={Кочаровский},
-           familyi={К\bibinitperiod},
-           given={Вл.\bibnamedelimi В.},
-           giveni={В\bibinitperiod\bibinitdelim В\bibinitperiod}}}%
-      }
-      \strng{authorbibnamehash}{b3ecc5f206ce3616544ce8323b098c36}
-      \strng{authornamehash}{b3ecc5f206ce3616544ce8323b098c36}
-      \strng{authorfullhash}{c7cfc660293474f648d2fe42f399955a}
-      \strng{authorfullhashraw}{c7cfc660293474f648d2fe42f399955a}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
-      \field{labeltitlesource}{title}
-      \field{internalsortissue}{12}
-      \field{internalsortvolume}{62}
-      \field{journaltitle}{Изв. вузов. Радиофизика}
-      \field{langid}{russian}
-      \field{media}{text}
-      \field{title}{Вейбелевский механизм генерации магнитного поля при расширении сгустка бесстолкновительной плазмы с горячими электронами}
-      \field{year}{2019}
-      \field{issue}{12}
-      \range{issue}{1}
-      \field{pages}{932\bibrangedash 952}
-      \range{pages}{21}
-      \field{volume}{62}
-      \range{volume}{1}
       \keyw{,biblioauthor,bibliofull}
     \endentry
     \entry{Marsch2006}{article}{}{}
@@ -1960,7 +1630,7 @@
       \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labeltitlesource}{title}
       \field{internalsortvolume}{670}
-      \field{journaltitle}{Astronomy &amp; Astrophysics}
+      \field{journaltitle}{Astronomy and Astrophysics}
       \field{media}{text}
       \field{month}{2}
       \field{title}{The aperiodic firehose instability of counter-beaming electrons in space plasmas}
@@ -3632,31 +3302,39 @@
   \missing{Appert1976}
   \missing{Aschwanden2005}
   \missing{Bakunin2017}
+  \missing{Borodachev2016_Radiofiz}
   \missing{Bret2004}
   \missing{Bret2010}
   \missing{Bychenkov2003}
   \missing{Dum1994}
   \missing{Fleishman2013}
   \missing{GaleevSagdeev1969}
+  \missing{Garasev2017_Radiophys}
   \missing{Garasev2022}
   \missing{Hao2008}
   \missing{Jia2013}
   \missing{Karlick2008}
   \missing{Kasaba2001}
   \missing{Kato2007}
+  \missing{Kocharovsky2016}
   \missing{Kocharovsky2024}
   \missing{Kong2009}
+  \missing{Krall1975}
   \missing{Kuznetsov2025}
   \missing{Kuznetsov2025a}
   \missing{Kuznetsov2025b}
   \missing{Lotov2015}
   \missing{Medvedev2006}
+  \missing{Mikhailovsky1971}
+  \missing{Nechaev2019_Radiophys}
+  \missing{Nechaev2023}
   \missing{Nishikawa2009}
   \missing{Shukla2018}
   \missing{Sun2022}
   \missing{Treumann1997}
   \missing{Treumann2015}
   \missing{Tzoufras2006}
+  \missing{Vedenov1962}
   \missing{Vedenov1963}
   \missing{VedenovRyutov1975}
   \missing{Yi2010}
