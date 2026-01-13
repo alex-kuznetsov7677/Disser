@@ -1,5 +1,5 @@
 %%% Шаблон %%%
-\DeclareRobustCommand{\fixme}{\textcolor{red}}  % решаем проблему превращения
+\DeclareRobustCommand{\fixme}{\textcolor{black}}  % решаем проблему превращения
                                 % названия цвета в результате \MakeUppercase,
                                 % http://tex.stackexchange.com/a/187930,
                                 % \DeclareRobustCommand protects \fixme
@@ -302,7 +302,7 @@
 
 %%% Команды рецензирования %%%
 \ifboolexpr{ (test {\ifnumequal{\value{draft}}{1}}) or (test {\ifnumequal{\value{showmarkup}}{1}})}{
-        \newrobustcmd{\todo}[1]{\textcolor{red}{#1}}
+        \newrobustcmd{\todo}[1]{\textcolor{black}{#1}}
         \newrobustcmd{\note}[2][]{\ifstrempty{#1}{#2}{\textcolor{#1}{#2}}}
         \newenvironment{commentbox}[1][]%
         {\ifstrempty{#1}{}{\color{#1}}}%
