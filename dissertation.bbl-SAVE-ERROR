@@ -3117,6 +3117,170 @@
       \endverb
       \keyw{,biblioauthor,bibliofull}
     \endentry
+    \entry{Seough2015b}{article}{useauthor=false}{}
+      \name{author}{4}{}{%
+        {{hash=5bc35cc353ab539722dcfcc1f7a0c7fd}{%
+           family={Seough},
+           familyi={S\bibinitperiod},
+           given={Jungjoon},
+           giveni={J\bibinitperiod}}}%
+        {{hash=71c36ec3f4671e0832c2e1c8f1c72161}{%
+           family={Yoon},
+           familyi={Y\bibinitperiod},
+           given={Peter\bibnamedelima H.},
+           giveni={P\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=9b44e8ca54021c2a796fb46a35ef49b5}{%
+           family={Hwang},
+           familyi={H\bibinitperiod},
+           given={Junga},
+           giveni={J\bibinitperiod}}}%
+        {{hash=2d44f1dfe41d9a3d80e61ffdc24697fc}{%
+           family={Nariyuki},
+           familyi={N\bibinitperiod},
+           given={Yasuhiro},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {AIP Publishing}%
+      }
+      \strng{authorbibnamehash}{ef017ae1cd17cfb2ce83c278ccb2137d}
+      \strng{authornamehash}{ef017ae1cd17cfb2ce83c278ccb2137d}
+      \strng{authorfullhash}{b19057924ffbb2e0e1bf2a3d08a75b11}
+      \strng{authorfullhashraw}{b19057924ffbb2e0e1bf2a3d08a75b11}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{22}
+      \field{journaltitle}{Physics of Plasmas}
+      \field{media}{text}
+      \field{month}{8}
+      \field{title}{Simulation and quasilinear theory of aperiodic ordinary mode instability}
+      \field{year}{2015}
+      \field{number}{8}
+      \range{number}{1}
+      \field{volume}{22}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1063/1.4928556
+      \endverb
+      \verb{urlraw}
+      \verb http://dx.doi.org/10.1063/1.4928556
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1063/1.4928556
+      \endverb
+      \keyw{,biblioauthor,bibliofull}
+    \endentry
+    \entry{Seough2015a}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=5bc35cc353ab539722dcfcc1f7a0c7fd}{%
+           family={Seough},
+           familyi={S\bibinitperiod},
+           given={Jungjoon},
+           giveni={J\bibinitperiod}}}%
+        {{hash=71c36ec3f4671e0832c2e1c8f1c72161}{%
+           family={Yoon},
+           familyi={Y\bibinitperiod},
+           given={Peter\bibnamedelima H.},
+           giveni={P\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=9b44e8ca54021c2a796fb46a35ef49b5}{%
+           family={Hwang},
+           familyi={H\bibinitperiod},
+           given={Junga},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {{AIP} Publishing}%
+      }
+      \strng{namehash}{450435c1994b4be0c782c60479eed26f}
+      \strng{fullhash}{450435c1994b4be0c782c60479eed26f}
+      \strng{fullhashraw}{450435c1994b4be0c782c60479eed26f}
+      \strng{bibnamehash}{450435c1994b4be0c782c60479eed26f}
+      \strng{authorbibnamehash}{450435c1994b4be0c782c60479eed26f}
+      \strng{authornamehash}{450435c1994b4be0c782c60479eed26f}
+      \strng{authorfullhash}{450435c1994b4be0c782c60479eed26f}
+      \strng{authorfullhashraw}{450435c1994b4be0c782c60479eed26f}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{22}
+      \field{journaltitle}{Phys. Plasmas}
+      \field{langid}{english}
+      \field{media}{text}
+      \field{title}{Simulation and quasilinear theory of proton firehose instability}
+      \field{year}{2015}
+      \field{number}{1}
+      \range{number}{1}
+      \field{pages}{012303}
+      \range{pages}{1}
+      \field{volume}{22}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1063/1.4905230
+      \endverb
+      \keyw{,biblioauthor,bibliofull}
+    \endentry
+    \entry{StockemNovo2015}{article}{useauthor=false}{}
+      \name{author}{6}{}{%
+        {{hash=80cea12e350dfcc1bafa4dfcc29a3039}{%
+           family={{Stockem Novo}},
+           familyi={S\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=e18e37f0f5d5ff2bc56f4acc1d78becc}{%
+           family={Yoon},
+           familyi={Y\bibinitperiod},
+           given={P.\bibnamedelimi H.},
+           giveni={P\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=e71c7fb2f6cf02a46e1c5bb453f6ff58}{%
+           family={Lazar},
+           familyi={L\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=251c4eba6f365597cbe851cc357b631e}{%
+           family={Schlickeiser},
+           familyi={S\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=e93d234d1a97fd4c6d962b5978a14843}{%
+           family={Poedts},
+           familyi={P\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=fb0b8a74bc722f9d442d88be927890c9}{%
+           family={Seough},
+           familyi={S\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {{AIP} Publishing}%
+      }
+      \strng{authorbibnamehash}{0a8f2ebec7d2e308eb3df014fb03988c}
+      \strng{authornamehash}{0a8f2ebec7d2e308eb3df014fb03988c}
+      \strng{authorfullhash}{2a62ed3d3f41562880da54d9b4613185}
+      \strng{authorfullhashraw}{2a62ed3d3f41562880da54d9b4613185}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{22}
+      \field{journaltitle}{Phys. Plasmas}
+      \field{langid}{english}
+      \field{media}{text}
+      \field{title}{Quasilinear saturation of the aperiodic ordinary mode streaming instability}
+      \field{year}{2015}
+      \field{number}{9}
+      \range{number}{1}
+      \field{pages}{092301}
+      \range{pages}{1}
+      \field{volume}{22}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1063/1.4929852
+      \endverb
+      \keyw{,biblioauthor,bibliofull}
+    \endentry
     \entry{Camporeale2008}{article}{}{}
       \name{author}{2}{}{%
         {{hash=d4e09148aa0b240a64593ac7abdfea3c}{%
@@ -3359,8 +3523,8 @@
       \strng{authornamehash}{9b7f7f375105824a188e772268a8bc9c}
       \strng{authorfullhash}{9b7f7f375105824a188e772268a8bc9c}
       \strng{authorfullhashraw}{9b7f7f375105824a188e772268a8bc9c}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{internalsortvolume}{17}
@@ -3415,8 +3579,8 @@
       \strng{authornamehash}{4ec972c725888ef781f6a0dc4fbdce21}
       \strng{authorfullhash}{4ec972c725888ef781f6a0dc4fbdce21}
       \strng{authorfullhashraw}{4ec972c725888ef781f6a0dc4fbdce21}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{internalsortvolume}{108}
@@ -3505,8 +3669,8 @@
       \strng{authornamehash}{86e3185f4c40a3944689b2eff7a9d246}
       \strng{authorfullhash}{a08eaef762806c1d1fd4ae3514f1f656}
       \strng{authorfullhashraw}{a08eaef762806c1d1fd4ae3514f1f656}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labeltitlesource}{title}
       \field{internalsortvolume}{101}
       \field{journaltitle}{Physical Review Letters}
@@ -3579,8 +3743,8 @@
       \strng{authornamehash}{c91189218ce300469f553a1976342457}
       \strng{authorfullhash}{00c1ef05549682210b43d9d1a8d3f65c}
       \strng{authorfullhashraw}{00c1ef05549682210b43d9d1a8d3f65c}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labeltitlesource}{title}
       \field{internalsortvolume}{23}
       \field{journaltitle}{Physics of Plasmas}
@@ -3643,8 +3807,8 @@
       \strng{authornamehash}{7b5c33c56fc7111001227c0fc9331af9}
       \strng{authorfullhash}{b873e47936f98b53cecec7e77acb47fd}
       \strng{authorfullhashraw}{b873e47936f98b53cecec7e77acb47fd}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labeltitlesource}{title}
       \field{internalsortvolume}{113}
       \field{journaltitle}{Physical Review Letters}
@@ -3814,8 +3978,8 @@
       \strng{authornamehash}{3be443b32d19968ded6cd20d4dbc09a5}
       \strng{authorfullhash}{913216738bc6c24d22782869768f995a}
       \strng{authorfullhashraw}{913216738bc6c24d22782869768f995a}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labeltitlesource}{title}
       \field{internalsortvolume}{8}
       \field{journaltitle}{High Energy Density Physics}
@@ -4455,8 +4619,8 @@
       \strng{authornamehash}{ba75b9dc55d3f9f3245b65143e1a4554}
       \strng{authorfullhash}{ba75b9dc55d3f9f3245b65143e1a4554}
       \strng{authorfullhashraw}{ba75b9dc55d3f9f3245b65143e1a4554}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{internalsortvolume}{40}
@@ -4473,66 +4637,6 @@
       \range{volume}{1}
       \verb{doi}
       \verb 10.1134/s1063780x14040096
-      \endverb
-      \keyw{,biblioauthor,bibliofull}
-    \endentry
-    \entry{StockemNovo2015}{article}{useauthor=false}{}
-      \name{author}{6}{}{%
-        {{hash=80cea12e350dfcc1bafa4dfcc29a3039}{%
-           family={{Stockem Novo}},
-           familyi={S\bibinitperiod},
-           given={A.},
-           giveni={A\bibinitperiod}}}%
-        {{hash=e18e37f0f5d5ff2bc56f4acc1d78becc}{%
-           family={Yoon},
-           familyi={Y\bibinitperiod},
-           given={P.\bibnamedelimi H.},
-           giveni={P\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
-        {{hash=e71c7fb2f6cf02a46e1c5bb453f6ff58}{%
-           family={Lazar},
-           familyi={L\bibinitperiod},
-           given={M.},
-           giveni={M\bibinitperiod}}}%
-        {{hash=251c4eba6f365597cbe851cc357b631e}{%
-           family={Schlickeiser},
-           familyi={S\bibinitperiod},
-           given={R.},
-           giveni={R\bibinitperiod}}}%
-        {{hash=e93d234d1a97fd4c6d962b5978a14843}{%
-           family={Poedts},
-           familyi={P\bibinitperiod},
-           given={S.},
-           giveni={S\bibinitperiod}}}%
-        {{hash=fb0b8a74bc722f9d442d88be927890c9}{%
-           family={Seough},
-           familyi={S\bibinitperiod},
-           given={J.},
-           giveni={J\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {{AIP} Publishing}%
-      }
-      \strng{authorbibnamehash}{0a8f2ebec7d2e308eb3df014fb03988c}
-      \strng{authornamehash}{0a8f2ebec7d2e308eb3df014fb03988c}
-      \strng{authorfullhash}{2a62ed3d3f41562880da54d9b4613185}
-      \strng{authorfullhashraw}{2a62ed3d3f41562880da54d9b4613185}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
-      \field{labeltitlesource}{title}
-      \field{internalsortvolume}{22}
-      \field{journaltitle}{Phys. Plasmas}
-      \field{langid}{english}
-      \field{media}{text}
-      \field{title}{Quasilinear saturation of the aperiodic ordinary mode streaming instability}
-      \field{year}{2015}
-      \field{number}{9}
-      \range{number}{1}
-      \field{pages}{092301}
-      \range{pages}{1}
-      \field{volume}{22}
-      \range{volume}{1}
-      \verb{doi}
-      \verb 10.1063/1.4929852
       \endverb
       \keyw{,biblioauthor,bibliofull}
     \endentry
@@ -4735,8 +4839,8 @@
       \strng{authornamehash}{6c368d9417918364cf489bbfda87e4f2}
       \strng{authorfullhash}{48231b026cc7584df79c813d51593568}
       \strng{authorfullhashraw}{48231b026cc7584df79c813d51593568}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labeltitlesource}{title}
       \field{internalsortvolume}{48}
       \field{journaltitle}{Plasma Phys. Rep.}
@@ -4752,48 +4856,6 @@
       \range{volume}{1}
       \verb{doi}
       \verb 10.1134/s1063780x22600700
-      \endverb
-      \keyw{,biblioauthor,bibliofull}
-    \endentry
-    \entry{Garasev2021}{article}{}{}
-      \name{author}{2}{}{%
-        {{hash=88f06fb1194c710b3f5e9aac8c15f943}{%
-           family={Garasev},
-           familyi={G\bibinitperiod},
-           given={M.\bibnamedelimi A.},
-           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-        {{hash=c7ab93aef38223e2d9ac079a83b98ed5}{%
-           family={Derishev},
-           familyi={D\bibinitperiod},
-           given={E.\bibnamedelimi V.},
-           giveni={E\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
-      }
-      \strng{namehash}{ec8409b96afb8ef3519f68f28dc9bcc2}
-      \strng{fullhash}{ec8409b96afb8ef3519f68f28dc9bcc2}
-      \strng{fullhashraw}{ec8409b96afb8ef3519f68f28dc9bcc2}
-      \strng{bibnamehash}{ec8409b96afb8ef3519f68f28dc9bcc2}
-      \strng{authorbibnamehash}{ec8409b96afb8ef3519f68f28dc9bcc2}
-      \strng{authornamehash}{ec8409b96afb8ef3519f68f28dc9bcc2}
-      \strng{authorfullhash}{ec8409b96afb8ef3519f68f28dc9bcc2}
-      \strng{authorfullhashraw}{ec8409b96afb8ef3519f68f28dc9bcc2}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{internalsortvolume}{63}
-      \field{journaltitle}{Radiophys. Quantum El.}
-      \field{langid}{english}
-      \field{media}{text}
-      \field{title}{Numerical Simulation of Nonlinear Effects in the {W}eibel Instability}
-      \field{year}{2021}
-      \field{number}{12}
-      \range{number}{1}
-      \field{pages}{909\bibrangedash 920}
-      \range{pages}{12}
-      \field{volume}{63}
-      \range{volume}{1}
-      \verb{doi}
-      \verb 10.1007/s11141-021-10103-w
       \endverb
       \keyw{,biblioauthor,bibliofull}
     \endentry
@@ -4851,6 +4913,48 @@
       \endverb
       \verb{url}
       \verb http://dx.doi.org/10.1007/s11141-020-10028-w
+      \endverb
+      \keyw{,biblioauthor,bibliofull}
+    \endentry
+    \entry{Garasev2021}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=88f06fb1194c710b3f5e9aac8c15f943}{%
+           family={Garasev},
+           familyi={G\bibinitperiod},
+           given={M.\bibnamedelimi A.},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=c7ab93aef38223e2d9ac079a83b98ed5}{%
+           family={Derishev},
+           familyi={D\bibinitperiod},
+           given={E.\bibnamedelimi V.},
+           giveni={E\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+      }
+      \strng{namehash}{ec8409b96afb8ef3519f68f28dc9bcc2}
+      \strng{fullhash}{ec8409b96afb8ef3519f68f28dc9bcc2}
+      \strng{fullhashraw}{ec8409b96afb8ef3519f68f28dc9bcc2}
+      \strng{bibnamehash}{ec8409b96afb8ef3519f68f28dc9bcc2}
+      \strng{authorbibnamehash}{ec8409b96afb8ef3519f68f28dc9bcc2}
+      \strng{authornamehash}{ec8409b96afb8ef3519f68f28dc9bcc2}
+      \strng{authorfullhash}{ec8409b96afb8ef3519f68f28dc9bcc2}
+      \strng{authorfullhashraw}{ec8409b96afb8ef3519f68f28dc9bcc2}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{63}
+      \field{journaltitle}{Radiophys. Quantum El.}
+      \field{langid}{english}
+      \field{media}{text}
+      \field{title}{Numerical Simulation of Nonlinear Effects in the {W}eibel Instability}
+      \field{year}{2021}
+      \field{number}{12}
+      \range{number}{1}
+      \field{pages}{909\bibrangedash 920}
+      \range{pages}{12}
+      \field{volume}{63}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1007/s11141-021-10103-w
       \endverb
       \keyw{,biblioauthor,bibliofull}
     \endentry
@@ -4985,8 +5089,8 @@
       \strng{authornamehash}{c8ff03bdc75fd2a78ba53185a274f0e7}
       \strng{authorfullhash}{d124f8ea8792b7101089aeaaddf4fc3c}
       \strng{authorfullhashraw}{d124f8ea8792b7101089aeaaddf4fc3c}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labeltitlesource}{title}
       \field{internalsortvolume}{96}
       \field{journaltitle}{Physical Review Letters}
@@ -5033,8 +5137,8 @@
       \strng{authornamehash}{96fff99ed2a653aef3cfdf6099dcd069}
       \strng{authorfullhash}{96fff99ed2a653aef3cfdf6099dcd069}
       \strng{authorfullhashraw}{96fff99ed2a653aef3cfdf6099dcd069}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{internalsortvolume}{6}
       \field{journaltitle}{Reviews of Plasma Physics}
@@ -5075,8 +5179,8 @@
       \strng{authornamehash}{8c0dbabc8ecb50d54a888d1fb674a3c5}
       \strng{authorfullhash}{8c0dbabc8ecb50d54a888d1fb674a3c5}
       \strng{authorfullhashraw}{8c0dbabc8ecb50d54a888d1fb674a3c5}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{internalsortvolume}{37}
@@ -5132,8 +5236,8 @@
       \strng{authornamehash}{619f1d3a1367545e9dc0572b96b5932c}
       \strng{authorfullhash}{d80597c6837a28aaf8211e2ade9f7301}
       \strng{authorfullhashraw}{d80597c6837a28aaf8211e2ade9f7301}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labeltitlesource}{title}
       \field{internalsortvolume}{17}
       \field{journaltitle}{Physics of Plasmas}
@@ -5175,8 +5279,8 @@
       \strng{authornamehash}{ad9201825b067ef631d3384068f58228}
       \strng{authorfullhash}{ad9201825b067ef631d3384068f58228}
       \strng{authorfullhashraw}{ad9201825b067ef631d3384068f58228}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{internalsortvolume}{188}
@@ -5237,8 +5341,8 @@
       \strng{authornamehash}{37bd1232acf1206ea472425d9b10b60e}
       \strng{authorfullhash}{47e65701cf05ac47946f8487fa307420}
       \strng{authorfullhashraw}{47e65701cf05ac47946f8487fa307420}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labeltitlesource}{title}
       \field{internalsortvolume}{106}
       \field{journaltitle}{Physical Review E}
@@ -5290,8 +5394,8 @@
       \strng{authornamehash}{328c46ac9e99fa3c28819cb1c78f42eb}
       \strng{authorfullhash}{328c46ac9e99fa3c28819cb1c78f42eb}
       \strng{authorfullhashraw}{328c46ac9e99fa3c28819cb1c78f42eb}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{internalsortvolume}{15}
@@ -5350,8 +5454,8 @@
       \strng{authornamehash}{e15f22212d8ebd118d2f10b655577176}
       \strng{authorfullhash}{d389b73e72651dad0fdffec6ea4b4a36}
       \strng{authorfullhashraw}{d389b73e72651dad0fdffec6ea4b4a36}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labeltitlesource}{title}
       \field{internalsortvolume}{937}
       \field{journaltitle}{The Astrophysical Journal}
@@ -5771,8 +5875,8 @@
       \strng{authornamehash}{415c8ba830df7f3f4e73d83055c2cde5}
       \strng{authorfullhash}{06be22593fca7c2b5b4e19157714fa1c}
       \strng{authorfullhashraw}{06be22593fca7c2b5b4e19157714fa1c}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labeltitlesource}{title}
       \field{internalsortvolume}{22}
       \field{journaltitle}{Physics of Plasmas}
@@ -5873,8 +5977,8 @@
       \strng{authornamehash}{ddf5dda5d0d36c5a75b4daaadee28296}
       \strng{authorfullhash}{ddf5dda5d0d36c5a75b4daaadee28296}
       \strng{authorfullhashraw}{ddf5dda5d0d36c5a75b4daaadee28296}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{isbn}{9781461457824}
@@ -5912,8 +6016,8 @@
       \strng{authornamehash}{58a5d44f10f06a9b405d1e7f5db87491}
       \strng{authorfullhash}{58a5d44f10f06a9b405d1e7f5db87491}
       \strng{authorfullhashraw}{58a5d44f10f06a9b405d1e7f5db87491}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{media}{text}
@@ -5954,8 +6058,8 @@
       \strng{authornamehash}{324ec1baabd0dc263bf04c6fd0f70a88}
       \strng{authorfullhash}{324ec1baabd0dc263bf04c6fd0f70a88}
       \strng{authorfullhashraw}{324ec1baabd0dc263bf04c6fd0f70a88}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{internalsortvolume}{105}
@@ -6012,8 +6116,8 @@
       \strng{authornamehash}{2d357ac75afdde561b420beec5295889}
       \strng{authorfullhash}{27fc5a91b2f7bd434089a41c1f16ea00}
       \strng{authorfullhashraw}{27fc5a91b2f7bd434089a41c1f16ea00}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labeltitlesource}{title}
       \field{internalsortvolume}{289}
       \field{journaltitle}{Solar Physics}
@@ -6070,8 +6174,8 @@
       \strng{authornamehash}{a87514c15fb3894d9572f9b89de3d6d4}
       \strng{authorfullhash}{84143381808d668f9c57c6c9ff3024a8}
       \strng{authorfullhashraw}{84143381808d668f9c57c6c9ff3024a8}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labeltitlesource}{title}
       \field{internalsortvolume}{483}
       \field{journaltitle}{Mon. Not. R. Astron. Soc.}
@@ -6112,8 +6216,8 @@
       \strng{authorfullhash}{f40a238c6f888c8cf7cdafeb6f12a9a5}
       \strng{authorfullhashraw}{f40a238c6f888c8cf7cdafeb6f12a9a5}
       \field{extraname}{1}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{internalsortvolume}{66}
